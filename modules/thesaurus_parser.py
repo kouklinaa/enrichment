@@ -11,38 +11,140 @@ import owlready2 as owl
 
 
 def load_thesaurus(path):
+    """
+    
+
+    Parameters
+    ----------
+    path : str
+        local path to FCU.
+
+    Returns
+    -------
+    onto : object
+        structure of the thesaurus.
+
+    """
     onto = owl.get_ontology(path).load()    
     return onto
 
 def get_prefLabel(individual):
-    prefs = individual.prefLabel
-    pref = prefs[0]
+    """
+    
+
+    Parameters
+    ----------
+    individual : object
+        correspondas to concept from the thesaurus.
+
+    Returns
+    -------
+    pref : str
+        french (preferred) label of the concept.
+
+    """
+    prefs = individual.prefLabel # get all preflabels
+    pref = prefs[0] # french label is at position 0
     return pref
 
 def get_altLabels(individual):
+    """
+    
+
+    Parameters
+    ----------
+    individual : object
+        correspondas to a concept from the thesaurus.
+
+    Returns
+    -------
+    alts : list of str
+        other french labels of the concept.
+
+    """
     alts = [alt for alt in individual.altLabel]       
     return alts
 
-def get_all_labels(individual):   
+def get_all_labels(individual):
+    """
+    
+
+    Parameters
+    ----------
+    individual : object
+        corresponds to a concept from the thesaurus.
+
+    Returns
+    -------
+    labels : list of str
+        all the labels for the individual.
+
+    """
     labels = []
     
+    # preflabel
     pref = get_prefLabel(individual)    
     labels.insert(0, pref)
     
+    # other labels
     alts = get_altLabels(individual)
     labels.extend(alts)   
      
     return labels
 
 def get_descendants(individual):
+    """
+    
+
+    Parameters
+    ----------
+    individual : object
+        corresponds to a concept from the thesaurus.
+
+    Returns
+    -------
+    children : list of str
+        skos:narrower values for the individual.
+
+    """
     children = flatten([c.prefLabel for c in individual.narrower])
     return children
 
 def get_ascendants(individual):
+    """
+    
+
+    Parameters
+    ----------
+    individual : object
+        corresponds to a concept from the thesaurus.
+
+    Returns
+    -------
+    parents : list of str
+        skos:broader values for the individual.
+
+    """
     parents = flatten([c.prefLabel for c in individual.broader])
     return parents
 
 def get_ascendants_of_descendants(children, parents):
+    """
+    
+
+    Parameters
+    ----------
+    children : list of str
+        skos:narrower values for the individual.
+    parents : list of str
+        skos:broader values for the individual.
+
+    Returns
+    -------
+    parents_of_children : list of str
+        skos:broader values of skos:narrower values if initial skos:broader value = multi usage.
+
+    """
     parents_of_children = {}
     for label_x, concepts_x in children.items():
         # find all parents of children
@@ -54,7 +156,29 @@ def get_ascendants_of_descendants(children, parents):
     
     return parents_of_children
 
-def parse_thesaurus(path):    
+def parse_thesaurus(path):
+    """
+    
+
+    Parameters
+    ----------
+    path : str
+        local path to FCU.
+
+    Returns
+    -------
+    labels : list of str
+        all the labels for the individual.
+    lemmatised_labels : list of str
+        lemmatised labels for the individual.
+    parents : list of str
+        skos:broader values for the individual.
+    children : list of str
+        skos:narrower values for the individual.
+    parents_of_children : list of str
+        skos:broader values of skos:narrower values if initial skos:broader value = multi usage.
+
+    """    
     
     # create empty dicts 
     labels = {}
