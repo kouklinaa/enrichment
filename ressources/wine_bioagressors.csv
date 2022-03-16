@@ -1,0 +1,832 @@
+Filiere;Sous_filiere;Culture;Organisme_Nuisible;Composante;Modalite;CodeEPPO
+Arboriculture fruitière;Agrumes;Citrons;Elsinoë fawcettii;Examen visuel;Général;ELSIFA
+Arboriculture fruitière;Agrumes;Citrons;Scirtothrips citri;Examen visuel;Général;SCITCI
+Arboriculture fruitière;Agrumes;Citrons;Toxoptera citricidus;Examen visuel;Sur organes aériens;TOXOCI
+Arboriculture fruitière;Agrumes;Citrons;Trioza erytreae;Examen visuel;Sur organes aériens;TRIZER
+Arboriculture fruitière;Agrumes;Citrons;Oemona hirta;Examen visuel;Sur organes aériens;OEMOHI
+Arboriculture fruitière;Agrumes;Citrons;Eotetranychus lewisi;Piégeage;Chromatique;EOTELE
+Arboriculture fruitière;Agrumes;Citrons;Toxoptera citricidus;Piégeage;Chromatique;TOXOCI
+Arboriculture fruitière;Agrumes;Citrons;Scirtothrips citri;Piégeage;Chromatique;SCITCI
+Arboriculture fruitière;Agrumes;Clémentinier;Aleurocanthus woglumi;Examen visuel;Général;ALECWO
+Arboriculture fruitière;Agrumes;Clémentinier;Elsinoë citricola;Examen visuel;Général;ELSICI
+Arboriculture fruitière;Agrumes;Clémentinier;Elsinoë fawcettii;Examen visuel;Général;ELSIFA
+Arboriculture fruitière;Agrumes;Clémentinier;Hishimonus phycitis;Examen visuel;Général;HISHPH
+Arboriculture fruitière;Agrumes;Clémentinier;Scirtothrips citri;Examen visuel;Général;SCITCI
+Arboriculture fruitière;Agrumes;Clémentinier;Scirtothrips dorsalis;Examen visuel;Général;SCITDO
+Arboriculture fruitière;Agrumes;Clémentinier;Bactrocera dorsalis;Examen visuel;Sur fruits;DACUDO
+Arboriculture fruitière;Agrumes;Clémentinier;Bactrocera tryoni;Examen visuel;Sur fruits;DACUTR
+Arboriculture fruitière;Agrumes;Clémentinier;Bactrocera tsuneonis;Examen visuel;Sur fruits;DACUTS
+Arboriculture fruitière;Agrumes;Clémentinier;Bactrocera zonata;Examen visuel;Sur fruits;DACUZO
+Arboriculture fruitière;Agrumes;Clémentinier;Ceratitis rosa;Examen visuel;Sur fruits;CERTRO
+Arboriculture fruitière;Agrumes;Clémentinier;Liberibacter africanus;Examen visuel;Sur fruits;LIBEAF
+Arboriculture fruitière;Agrumes;Clémentinier;Liberibacter americanus;Examen visuel;Sur fruits;LIBEAM
+Arboriculture fruitière;Agrumes;Clémentinier;Liberibacter asiaticus;Examen visuel;Sur fruits;LIBEAS
+Arboriculture fruitière;Agrumes;Clémentinier;Phyllosticta citricarpa;Examen visuel;Sur fruits;GUIGCI
+Arboriculture fruitière;Agrumes;Clémentinier;Xanthomonas citri pv. aurantifolii;Examen visuel;Sur fruits;XANTAU
+Arboriculture fruitière;Agrumes;Clémentinier;Anastrepha ludens;Examen visuel;Sur fruits;ANSTLU
+Arboriculture fruitière;Agrumes;Clémentinier;Citrus leprosis viruses;Examen visuel;Sur fruits;CILVN0
+Arboriculture fruitière;Agrumes;Clémentinier;Pseudocercospora angolensis;Examen visuel;Sur fruits;CERCAN
+Arboriculture fruitière;Agrumes;Clémentinier;Thaumatotibia leucotreta;Examen visuel;Sur fruits;ARGPLE
+Arboriculture fruitière;Agrumes;Clémentinier;Aleurocanthus spiniferus;Examen visuel;Sur organes aériens;ALECSN
+Arboriculture fruitière;Agrumes;Clémentinier;Anoplophora chinensis;Examen visuel;Sur organes aériens;ANOLCN
+Arboriculture fruitière;Fruits à coque;Châtaignier;Popillia japonica;Examen visuel;Popillia japonica;POPIJA
+Arboriculture fruitière;Agrumes;Clémentinier;Lopholeucaspis japonica;Examen visuel;Sur organes aériens;LOPLJA
+Arboriculture fruitière;Agrumes;Clémentinier;Toxoptera citricidus;Examen visuel;Sur organes aériens;TOXOCI
+Arboriculture fruitière;Agrumes;Clémentinier;Xylella fastidiosa;Examen visuel;Sur organes aériens;XYLEFA
+Arboriculture fruitière;Agrumes;Clémentinier;Bactrocera tryoni;Piégeage;Alimentaire;DACUTR
+Arboriculture fruitière;Agrumes;Clémentinier;Ceratitis rosa;Piégeage;Alimentaire;CERTRO
+Arboriculture fruitière;Agrumes;Clémentinier;Anastrepha ludens;Piégeage;Alimentaire;ANSTLU
+Arboriculture fruitière;Agrumes;Clémentinier;Aleurocanthus spiniferus;Piégeage;Chromatique;ALECSN
+Arboriculture fruitière;Agrumes;Clémentinier;Toxoptera citricidus;Piégeage;Chromatique;TOXOCI
+Arboriculture fruitière;Agrumes;Clémentinier;Aleurocanthus woglumi;Piégeage;Chromatique;ALECWO
+Arboriculture fruitière;Agrumes;Clémentinier;Scirtothrips citri;Piégeage;Chromatique;SCITCI
+Arboriculture fruitière;Agrumes;Clémentinier;Scirtothrips dorsalis;Piégeage;Chromatique;SCITDO
+Arboriculture fruitière;Agrumes;Clémentinier;Bactrocera dorsalis;Piégeage;methyl-eugenol;DACUDO
+Arboriculture fruitière;Agrumes;Clémentinier;Bactrocera tsuneonis;Piégeage;methyl-eugenol;DACUTS
+Arboriculture fruitière;Agrumes;Clémentinier;Bactrocera zonata;Piégeage;methyl-eugenol;DACUZO
+Arboriculture fruitière;Agrumes;Clémentinier;Thaumatotibia leucotreta;Piégeage;Phéromone;ARGPLE
+Arboriculture fruitière;Agrumes;Clémentinier;Xylella fastidiosa;Prélèvement asymptomatique;Sur organes aériens;XYLEFA
+Arboriculture fruitière;Agrumes;Limettier;Diaphorina citri;Examen visuel;Général;DIAACI
+Arboriculture fruitière;Agrumes;Limettier;Elsinoë fawcettii;Examen visuel;Général;ELSIFA
+Arboriculture fruitière;Agrumes;Limettier;Phytoplasma aurantifolia;Examen visuel;Sur organes aériens;PHYPAF
+Arboriculture fruitière;Agrumes;Limettier;Trioza erytreae;Examen visuel;Sur organes aériens;TRIZER
+Arboriculture fruitière;Agrumes;Mandarinier japonais;Satsuma dwarf virus;Examen visuel;Général;SDV000
+Arboriculture fruitière;Agrumes;Oranger;Elsinoë citricola;Examen visuel;Général;ELSICI
+Arboriculture fruitière;Agrumes;Oranger;Hishimonus phycitis;Examen visuel;Général;HISHPH
+Arboriculture fruitière;Agrumes;Oranger;Scirtothrips aurantii;Examen visuel;Général;SCITAU
+Arboriculture fruitière;Agrumes;Oranger;Scirtothrips citri;Examen visuel;Général;SCITCI
+Arboriculture fruitière;Agrumes;Oranger;Citrus leprosis viruses;Examen visuel;Sur fruits;CILVN0
+Arboriculture fruitière;Agrumes;Oranger;Elsinoë australis;Examen visuel;Sur fruits;ELSIAU
+Arboriculture fruitière;Agrumes;Oranger;Pseudocercospora angolensis;Examen visuel;Sur fruits;CERCAN
+Arboriculture fruitière;Agrumes;Oranger;Unaspis citri;Examen visuel;Sur fruits;UNASCI
+Arboriculture fruitière;Agrumes;Oranger;Citrus tristeza virus;Examen visuel;Sur organes aériens;CTV000
+Arboriculture fruitière;Agrumes;Oranger;Eotetranychus lewisi;Examen visuel;Sur organes aériens;EOTELE
+Arboriculture fruitière;Agrumes;Oranger;Homalodisca vitripennis;Examen visuel;Sur organes aériens;HOMLTR
+Arboriculture fruitière;Agrumes;Oranger;Toxoptera citricidus;Examen visuel;Sur organes aériens;TOXOCI
+Arboriculture fruitière;Agrumes;Oranger;Oemona hirta;Examen visuel;Sur organes aériens;OEMOHI
+Arboriculture fruitière;Agrumes;Oranger;Hibiscus green spot virus 2;Examen visuel;Sur organes aériens;HGSV20
+Arboriculture fruitière;Agrumes;Oranger;Eotetranychus lewisi;Piégeage;Chromatique;EOTELE
+Arboriculture fruitière;Agrumes;Oranger;Homalodisca vitripennis;Piégeage;Chromatique;HOMLTR
+Arboriculture fruitière;Agrumes;Oranger;Toxoptera citricidus;Piégeage;Chromatique;TOXOCI
+Arboriculture fruitière;Agrumes;Oranger;Scirtothrips aurantii;Piégeage;Chromatique;SCITAU
+Arboriculture fruitière;Agrumes;Oranger;Scirtothrips citri;Piégeage;Chromatique;SCITCI
+Arboriculture fruitière;Agrumes;Pamplemousse;Diaphorina citri;Examen visuel;Général;DIAACI
+Arboriculture fruitière;Agrumes;Pamplemousse;Elsinoë fawcettii;Examen visuel;Général;ELSIFA
+Arboriculture fruitière;Agrumes;Pamplemousse;Scirtothrips citri;Examen visuel;Général;SCITCI
+Arboriculture fruitière;Agrumes;Pamplemousse;Thaumatotibia leucotreta;Examen visuel;Général;ARGPLE
+Arboriculture fruitière;Agrumes;Pamplemousse;Lopholeucaspis japonica;Examen visuel;Sur organes aériens;LOPLJA
+Arboriculture fruitière;Agrumes;Pamplemousse;Toxoptera citricidus;Examen visuel;Sur organes aériens;TOXOCI
+Arboriculture fruitière;Agrumes;Pamplemousse;Citrus leprosis viruses;Examen visuel;Sur organes aériens;CILVN0
+Arboriculture fruitière;Agrumes;Pamplemousse;Oemona hirta;Examen visuel;Sur organes aériens;OEMOHI
+Arboriculture fruitière;Agrumes;Pamplemousse;Pseudocercospora angolensis;Examen visuel;Sur organes aériens;CERCAN
+Arboriculture fruitière;Agrumes;Pamplemousse;Xanthomonas citri pv. citri;Examen visuel;Sur organes aériens;XANTCI
+Arboriculture fruitière;Agrumes;Pamplemousse;Toxoptera citricidus;Piégeage;Chromatique;TOXOCI
+Arboriculture fruitière;Agrumes;Pamplemousse;Scirtothrips citri;Piégeage;Chromatique;SCITCI
+Arboriculture fruitière;Agrumes;Pamplemousse;Thaumatotibia leucotreta;Piégeage;Phéromone;ARGPLE
+Arboriculture fruitière;Figuier;Figuier;Bactrocera zonata;Examen visuel;Sur organes aériens;DACUZO
+Arboriculture fruitière;Figuier;Figuier;Lopholeucaspis japonica;Examen visuel;Sur organes aériens;LOPLJA
+Arboriculture fruitière;Figuier;Figuier;Xylella fastidiosa;Examen visuel;Sur organes aériens;XYLEFA
+Arboriculture fruitière;Figuier;Figuier;Bactrocera zonata;Piégeage;methyl-eugenol;DACUZO
+Arboriculture fruitière;Figuier;Figuier;Xylella fastidiosa;Prélèvement asymptomatique;Sur organes aériens;XYLEFA
+Forêt-bois;Forêt;Pins;Dendrolimus sibiricus;Examen visuel;;DENDSI
+Arboriculture fruitière;Fruits à coque;Châtaignier;Popillia japonica;Piégeage;Alimentaire + Attractifs sexuels;POPIJA
+Arboriculture fruitière;Fruits à coque;Noisetier;Anoplophora chinensis;Examen visuel;Anoplophora chinensis;ANOLCN
+Arboriculture fruitière;Fruits à coque;Noisetier;Anisogramma anomala;Examen visuel;Général;CRSPAN
+Arboriculture fruitière;Fruits à coque;Noyer;Geosmithia morbida;Examen visuel;Sur organes aériens;GEOHMO
+Arboriculture fruitière;Fruits à coque;Noyer;Pityophthorus juglandis;Examen visuel;Sur organes aériens;PITOJU
+Arboriculture fruitière;Fruits à coque;Noyer;Popillia japonica;Examen visuel;Sur organes aériens;POPIJA
+Arboriculture fruitière;Fruits à coque;Noyer;Xylella fastidiosa;Examen visuel;Sur organes aériens;XYLEFA
+Arboriculture fruitière;Fruits à coque;Noyer;Popillia japonica;Piégeage;Alimentaire + Attractifs sexuels;POPIJA
+Arboriculture fruitière;Fruits à coque;Noyer;Pityophthorus juglandis;Piégeage;Phéromone;PITOJU
+Arboriculture fruitière;Fruits à coque;Noyer;Xylella fastidiosa;Prélèvement asymptomatique;Sur organes aériens;XYLEFA
+Arboriculture fruitière;Fruits à noyau (dont amandier);Abricotier;Bactrocera zonata;Examen visuel;Sur fruits;DACUZO
+Arboriculture fruitière;Fruits à noyau (dont amandier);Abricotier;Ceratitis quinaria;Examen visuel;Sur fruits;CERTQU
+Arboriculture fruitière;Fruits à noyau (dont amandier);Abricotier;Aromia bungii;Examen visuel;Sur organes aériens;AROMBU
+Arboriculture fruitière;Fruits à noyau (dont amandier);Abricotier;Xylella fastidiosa;Examen visuel;Sur organes aériens;XYLEFA
+Arboriculture fruitière;Fruits à noyau (dont amandier);Abricotier;Ceratitis quinaria;Piégeage;Alimentaire;CERTQU
+Arboriculture fruitière;Fruits à noyau (dont amandier);Abricotier;Aromia bungii;Piégeage;Alimentaire + Phéromone;AROMBU
+Arboriculture fruitière;Fruits à noyau (dont amandier);Abricotier;Bactrocera zonata;Piégeage;methyl-eugenol;DACUZO
+Arboriculture fruitière;Fruits à noyau (dont amandier);Abricotier;Xylella fastidiosa;Prélèvement asymptomatique;Sur organes aériens;XYLEFA
+Arboriculture fruitière;Fruits à noyau (dont amandier);Amandier;Xylella fastidiosa;Examen visuel;Sur organes aériens;XYLEFA
+Arboriculture fruitière;Fruits à noyau (dont amandier);Amandier;Xylella fastidiosa;Prélèvement asymptomatique;Sur organes aériens;XYLEFA
+Arboriculture fruitière;Fruits à noyau (dont amandier);Cerisier;Anthonomus quadrigibbus;Examen visuel;Général;TACYQU
+Arboriculture fruitière;Fruits à noyau (dont amandier);Cerisier;Euphranta japonica;Examen visuel;Général;RHACJA
+Arboriculture fruitière;Fruits à noyau (dont amandier);Cerisier;Grapholita packardi;Examen visuel;Général;LASPPA
+Arboriculture fruitière;Fruits à noyau (dont amandier);Cerisier;Grapholita prunivora;Examen visuel;Général;LASPPR
+Arboriculture fruitière;Fruits à noyau (dont amandier);Cerisier;Rhagoletis fausta;Examen visuel;Général;RHAGFA
+Arboriculture fruitière;Fruits à noyau (dont amandier);Cerisier;Rhagoletis indifferens;Examen visuel;Sur fruits;RHAGIN
+Arboriculture fruitière;Fruits à noyau (dont amandier);Cerisier;Aromia bungii;Examen visuel;Sur organes aériens;AROMBU
+Arboriculture fruitière;Fruits à noyau (dont amandier);Cerisier;Lopholeucaspis japonica;Examen visuel;Sur organes aériens;LOPLJA
+Arboriculture fruitière;Fruits à noyau (dont amandier);Cerisier;Saperda candida;Examen visuel;Sur organes aériens;SAPECN
+Arboriculture fruitière;Fruits à noyau (dont amandier);Cerisier;Xylella fastidiosa;Examen visuel;Sur organes aériens;XYLEFA
+Arboriculture fruitière;Fruits à noyau (dont amandier);Cerisier;Euphranta japonica;Piégeage;Alimentaire;RHACJA
+Arboriculture fruitière;Fruits à noyau (dont amandier);Cerisier;Rhagoletis indifferens;Piégeage;Alimentaire + Chromatique;RHAGIN
+Arboriculture fruitière;Fruits à noyau (dont amandier);Cerisier;Rhagoletis fausta;Piégeage;Alimentaire + Chromatique;RHAGFA
+Arboriculture fruitière;Fruits à noyau (dont amandier);Cerisier;Aromia bungii;Piégeage;Alimentaire + Phéromone;AROMBU
+Arboriculture fruitière;Fruits à noyau (dont amandier);Cerisier;Anthonomus quadrigibbus;Piégeage;Chromatique ;TACYQU
+Arboriculture fruitière;Fruits à noyau (dont amandier);Cerisier;Grapholita packardi;Piégeage;Phéromone;LASPPA
+Arboriculture fruitière;Fruits à noyau (dont amandier);Cerisier;Xylella fastidiosa;Prélèvement asymptomatique;Sur organes aériens;XYLEFA
+Arboriculture fruitière;Fruits à noyau (dont amandier);Pêcher;Cherry rasp leaf virus;Examen visuel;Général;CRLV00
+Arboriculture fruitière;Fruits à noyau (dont amandier);Pêcher;Phymatotrichopsis omnivora;Examen visuel;Général;PHMPOM
+Arboriculture fruitière;Fruits à noyau (dont amandier);Pêcher;Bactrocera dorsalis;Examen visuel;Sur fruits;DACUDO
+Arboriculture fruitière;Fruits à noyau (dont amandier);Pêcher;Bactrocera zonata;Examen visuel;Sur fruits;DACUZO
+Arboriculture fruitière;Fruits à noyau (dont amandier);Pêcher;Ceratitis quinaria;Examen visuel;Sur fruits;CERTQU
+Arboriculture fruitière;Fruits à noyau (dont amandier);Pêcher;Tomato ringspot virus;Examen visuel;Sur fruits;TORSV0
+Arboriculture fruitière;Fruits à noyau (dont amandier);Pêcher;Anastrepha ludens;Examen visuel;Sur fruits;ANSTLU
+Arboriculture fruitière;Fruits à noyau (dont amandier);Pêcher;Carposina sasakii;Examen visuel;Sur fruits;CARSSA
+Arboriculture fruitière;Fruits à noyau (dont amandier);Pêcher;Peach mosaic virus;Examen visuel;Sur fruits;PCMV00
+Arboriculture fruitière;Fruits à noyau (dont amandier);Pêcher;Peach rosette mosaic virus;Examen visuel;Sur fruits;PRMV00
+Arboriculture fruitière;Fruits à noyau (dont amandier);Pêcher;Thaumatotibia leucotreta;Examen visuel;Sur fruits;ARGPLE
+Arboriculture fruitière;Fruits à noyau (dont amandier);Pêcher;Conotrachelus nenuphar;Examen visuel;Sur fruits;CONHNE
+Arboriculture fruitière;Fruits à noyau (dont amandier);Pêcher;Aromia bungii;Examen visuel;Sur organes aériens;AROMBU
+Arboriculture fruitière;Fruits à noyau (dont amandier);Pêcher;Popillia japonica;Examen visuel;Sur organes aériens;POPIJA
+Arboriculture fruitière;Fruits à noyau (dont amandier);Pêcher;Saperda candida;Examen visuel;Sur organes aériens;SAPECN
+Arboriculture fruitière;Fruits à noyau (dont amandier);Pêcher;Xylella fastidiosa;Examen visuel;Sur organes aériens;XYLEFA
+Arboriculture fruitière;Fruits à noyau (dont amandier);Pêcher;Ceratitis quinaria;Piégeage;Alimentaire;CERTQU
+Arboriculture fruitière;Fruits à noyau (dont amandier);Pêcher;Anastrepha ludens;Piégeage;Alimentaire;ANSTLU
+Arboriculture fruitière;Fruits à noyau (dont amandier);Pêcher;Conotrachelus nenuphar;Piégeage;Alimentaire;CONHNE
+Arboriculture fruitière;Fruits à noyau (dont amandier);Pêcher;Popillia japonica;Piégeage;Alimentaire + Attractifs sexuels;POPIJA
+Arboriculture fruitière;Fruits à noyau (dont amandier);Pêcher;Aromia bungii;Piégeage;Alimentaire + Phéromone;AROMBU
+Arboriculture fruitière;Fruits à noyau (dont amandier);Pêcher;Bactrocera dorsalis;Piégeage;methyl-eugenol;DACUDO
+Arboriculture fruitière;Fruits à noyau (dont amandier);Pêcher;Bactrocera zonata;Piégeage;methyl-eugenol;DACUZO
+Arboriculture fruitière;Fruits à noyau (dont amandier);Pêcher;Carposina sasakii;Piégeage;Phéromone;CARSSA
+Arboriculture fruitière;Fruits à noyau (dont amandier);Pêcher;Thaumatotibia leucotreta;Piégeage;Phéromone;ARGPLE
+Arboriculture fruitière;Fruits à noyau (dont amandier);Pêcher;Longidorus diadecturus;Prélèvement asymptomatique;Sol et feuilles;LONGDI
+Arboriculture fruitière;Fruits à noyau (dont amandier);Pêcher;Xylella fastidiosa;Prélèvement asymptomatique;Sur organes aériens;XYLEFA
+Arboriculture fruitière;Fruits à noyau (dont amandier);Prunier;Apiosporina morbosa;Examen visuel;Général;DIBOMO
+Arboriculture fruitière;Fruits à noyau (dont amandier);Prunier;Grapholita prunivora;Examen visuel;Général;LASPPR
+Arboriculture fruitière;Fruits à noyau (dont amandier);Prunier;American plum line pattern virus;Examen visuel;Sur organes aériens;APLPV0
+Arboriculture fruitière;Fruits à noyau (dont amandier);Prunier;Anoplophora chinensis;Examen visuel;Sur organes aériens;ANOLCN
+Arboriculture fruitière;Fruits à noyau (dont amandier);Prunier;Aromia bungii;Examen visuel;Sur organes aériens;AROMBU
+Arboriculture fruitière;Fruits à noyau (dont amandier);Prunier;Homalodisca vitripennis;Examen visuel;Sur organes aériens;HOMLTR
+Arboriculture fruitière;Fruits à noyau (dont amandier);Prunier;Popillia japonica;Examen visuel;Sur organes aériens;POPIJA
+Arboriculture fruitière;Fruits à noyau (dont amandier);Prunier;Saperda candida;Examen visuel;Sur organes aériens;SAPECN
+Arboriculture fruitière;Fruits à noyau (dont amandier);Prunier;Xylella fastidiosa;Examen visuel;Sur organes aériens;XYLEFA
+Arboriculture fruitière;Fruits à noyau (dont amandier);Prunier;Conotrachelus nenuphar;Examen visuel;Sur organes aériens;CONHNE
+Arboriculture fruitière;Fruits à noyau (dont amandier);Prunier;Conotrachelus nenuphar;Piégeage;Alimentaire;CONHNE
+Arboriculture fruitière;Fruits à noyau (dont amandier);Prunier;Popillia japonica;Piégeage;Alimentaire + Attractifs sexuels;POPIJA
+Arboriculture fruitière;Fruits à noyau (dont amandier);Prunier;Aromia bungii;Piégeage;Alimentaire + Phéromone;AROMBU
+Arboriculture fruitière;Fruits à noyau (dont amandier);Prunier;Homalodisca vitripennis;Piégeage;Chromatique;HOMLTR
+Arboriculture fruitière;Fruits à noyau (dont amandier);Prunier;Xylella fastidiosa;Prélèvement asymptomatique;Sur organes aériens;XYLEFA
+Arboriculture fruitière;Fruits à pépins;Nashi;Carposina sasakii;Examen visuel;Carposina sasakii;CARSSA
+Arboriculture fruitière;Fruits à pépins;Nashi;Botryosphaeria kuwatsukai;Examen visuel;Général;PHYOPI
+Arboriculture fruitière;Fruits à pépins;Nashi;Venturia nashicola;Examen visuel;Général;VENTNA
+Arboriculture fruitière;Fruits à pépins;Nashi;Carposina sasakii;Piégeage;Phéromone;CARSSA
+Arboriculture fruitière;Fruits à pépins;Poirier;Erwinia amylovora;Examen visuel;Feu bactérien;ERWIAM
+Arboriculture fruitière;Fruits à pépins;Poirier;Venturia nashicola;Examen visuel;Général;VENTNA
+Arboriculture fruitière;Fruits à pépins;Poirier;Bactrocera dorsalis;Examen visuel;Sur fruits;DACUDO
+Arboriculture fruitière;Fruits à pépins;Poirier;Acrobasis pirivorella;Examen visuel;Sur fruits;NUMOPI
+Arboriculture fruitière;Fruits à pépins;Poirier;Carposina sasakii;Examen visuel;Sur fruits;CARSSA
+Arboriculture fruitière;Fruits à pépins;Poirier;Anoplophora chinensis;Examen visuel;Sur organes aériens;ANOLCN
+Arboriculture fruitière;Fruits à pépins;Poirier;Anoplophora glabripennis;Examen visuel;Sur organes aériens;ANOLGL
+Arboriculture fruitière;Fruits à pépins;Poirier;Popillia japonica;Examen visuel;Sur organes aériens;POPIJA
+Arboriculture fruitière;Fruits à pépins;Poirier;Saperda candida;Examen visuel;Sur organes aériens;SAPECN
+Arboriculture fruitière;Fruits à pépins;Poirier;Popillia japonica;Piégeage;Alimentaire + Attractifs sexuels;POPIJA
+Arboriculture fruitière;Fruits à pépins;Poirier;Bactrocera dorsalis;Piégeage;methyl-eugenol;DACUDO
+Arboriculture fruitière;Fruits à pépins;Poirier;Carposina sasakii;Piégeage;Phéromone;CARSSA
+Arboriculture fruitière;Fruits à pépins;Pommier;Erwinia amylovora;Examen visuel;Feu bactérien;ERWIAM
+Arboriculture fruitière;Fruits à pépins;Pommier;Botryosphaeria kuwatsukai;Examen visuel;Général;PHYOPI
+Arboriculture fruitière;Fruits à pépins;Pommier;Grapholita prunivora;Examen visuel;Général;LASPPR
+Arboriculture fruitière;Fruits à pépins;Pommier;Lopholeucaspis japonica;Examen visuel;Général;LOPLJA
+Arboriculture fruitière;Fruits à pépins;Pommier;Phyllosticta solitaria;Examen visuel;Général;PHYSSL
+Arboriculture fruitière;Fruits à pépins;Pommier;Phymatotrichopsis omnivora;Examen visuel;Général;PHMPOM
+Arboriculture fruitière;Fruits à pépins;Pommier;Bactrocera dorsalis;Examen visuel;Sur fruits;DACUDO
+Arboriculture fruitière;Fruits à pépins;Pommier;Anthonomus quadrigibbus;Examen visuel;Sur fruits;TACYQU
+Arboriculture fruitière;Fruits à pépins;Pommier;Carposina sasakii;Examen visuel;Sur fruits;CARSSA
+Arboriculture fruitière;Fruits à pépins;Pommier;Grapholita inopinata;Examen visuel;Sur fruits;CYDIIN
+Arboriculture fruitière;Fruits à pépins;Pommier;Rhagoletis pomonella;Examen visuel;Sur fruits;RHAGPO
+Arboriculture fruitière;Fruits à pépins;Pommier;Anoplophora chinensis;Examen visuel;Sur organes aériens;ANOLCN
+Arboriculture fruitière;Fruits à pépins;Pommier;Anoplophora glabripennis;Examen visuel;Sur organes aériens;ANOLGL
+Arboriculture fruitière;Fruits à pépins;Pommier;Popillia japonica;Examen visuel;Sur organes aériens;POPIJA
+Arboriculture fruitière;Fruits à pépins;Pommier;Saperda candida;Examen visuel;Sur organes aériens;SAPECN
+Arboriculture fruitière;Fruits à pépins;Pommier;Popillia japonica;Piégeage;Alimentaire + Attractifs sexuels;POPIJA
+Arboriculture fruitière;Fruits à pépins;Pommier;Rhagoletis pomonella;Piégeage;Alimentaire + Chromatique;RHAGPO
+Arboriculture fruitière;Fruits à pépins;Pommier;Anthonomus quadrigibbus;Piégeage;Chromatique ;TACYQU
+Arboriculture fruitière;Fruits à pépins;Pommier;Bactrocera dorsalis;Piégeage;methyl-eugenol;DACUDO
+Arboriculture fruitière;Fruits à pépins;Pommier;Carposina sasakii;Piégeage;Phéromone;CARSSA
+Arboriculture fruitière;Olivier;Olivier;Xylella fastidiosa;Examen visuel;Sur organes aériens;XYLEFA
+Arboriculture fruitière;Olivier;Olivier;Xylella fastidiosa;Prélèvement asymptomatique;Sur organes aériens;XYLEFA
+Arboriculture fruitière;Petits fruits;Airelles;Longidorus diadecturus;Prélèvement asymptomatique;Sol et feuilles;LONGDI
+Arboriculture fruitière;Petits fruits;Cassissier;Euphranta canadensis;Examen visuel;Général;EPOCCA
+Arboriculture fruitière;Petits fruits;Framboisier;Anthonomus signatus;Examen visuel;Général;ANTHSI
+Arboriculture fruitière;Petits fruits;Framboisier;Popillia japonica;Examen visuel;Sur organes aériens;POPIJA
+Arboriculture fruitière;Petits fruits;Framboisier;Tomato ringspot virus;Examen visuel;Sur organes aériens;TORSV0
+Arboriculture fruitière;Petits fruits;Framboisier;Raspberry leaf curl virus;Examen visuel;Sur organes aériens;RLCV00
+Arboriculture fruitière;Petits fruits;Framboisier;Popillia japonica;Piégeage;Alimentaire + Attractifs sexuels;POPIJA
+Arboriculture fruitière;Petits fruits;Framboisier;Tobacco streak virus black raspberry latent strain;Prélèvement asymptomatique;TSVBL;TSVBL0
+Arboriculture fruitière;Petits fruits;Groseillier;Rhagoletis ribicola;Examen visuel;Général;RHAGRI
+Arboriculture fruitière;Petits fruits;Groseillier;Rhagoletis ribicola;Piégeage;Alimentaire + Chromatique;RHAGRI
+Arboriculture fruitière;Petits fruits;Mûrier;Anoplophora glabripennis;Examen visuel;Général;ANOLGL
+Arboriculture fruitière;Petits fruits;Mûrier;Anthonomus signatus;Examen visuel;Général;ANTHSI
+Arboriculture fruitière;Petits fruits;Myrtilles;Anthonomus signatus;Examen visuel;Général;ANTHSI
+Arboriculture fruitière;Petits fruits;Myrtillier à corymbes;Blueberry leaf mottle virus;Examen visuel;Blueberry leaf mottle virus;BLMOV0
+Arboriculture fruitière;Petits fruits;Myrtillier à corymbes;Rhagoletis mendax;Examen visuel;Général;RHAGME
+Arboriculture fruitière;Petits fruits;Myrtillier à corymbes;Rhagoletis mendax;Piégeage;Alimentaire + Chromatique;RHAGME
+Cultures légumières;BTR;Betterave potagère;Meloidogyne chitwoodi;Prélèvement asymptomatique;Terre nématodes après récolte;MELGCH
+Cultures légumières;BTR;Betterave potagère;Meloidogyne fallax;Prélèvement asymptomatique;Terre nématodes après récolte;MELGFA
+Cultures légumières;BTR;Carotte;Meloidogyne chitwoodi;Prélèvement asymptomatique;Terre nématodes après récolte;MELGCH
+Cultures légumières;BTR;Carotte;Meloidogyne fallax;Prélèvement asymptomatique;Terre nématodes après récolte;MELGFA
+Cultures légumières;BTR;Salsifis;Meloidogyne chitwoodi;Prélèvement asymptomatique;Terre nématodes après récolte;MELGCH
+Cultures légumières;BTR;Salsifis;Meloidogyne fallax;Prélèvement asymptomatique;Terre nématodes après récolte;MELGFA
+Cultures légumières;Cucurbitacées;Concombre;Bemisia tabaci;Examen visuel;Général;BEMITA
+Cultures légumières;Cucurbitacées;Concombre;Diabrotica undecimpunctata howardi;Examen visuel;Général;DIABUH
+Cultures légumières;Cucurbitacées;Concombre;Diabrotica undecimpunctata undecimpunctata;Examen visuel;Général;DIABUN
+Cultures légumières;Cucurbitacées;Concombre;Zeugodacus cucurbitae;Examen visuel;Général;DACUCU
+Cultures légumières;Cucurbitacées;Concombre;Spodoptera frugiperda;Examen visuel;Sur feuilles;LAPHFR
+Cultures légumières;Cucurbitacées;Concombre;Bactrocera dorsalis;Examen visuel;Sur fruits;DACUDO
+Cultures légumières;PPAMC;Romarin;Xylella fastidiosa;Prélèvement asymptomatique;Sur organes aériens;XYLEFA
+Cultures légumières;Cucurbitacées;Concombre;Tomato leaf curl New Delhi virus;Examen visuel;Sur organes aériens;TOLCND
+Cultures légumières;Cucurbitacées;Concombre;Dacus ciliatus;Examen visuel;Sur organes aériens;DACUCI
+Cultures légumières;Cucurbitacées;Concombre;Thrips palmi;Examen visuel;Sur plantes;THRIPL
+Cultures légumières;Cucurbitacées;Concombre;Bemisia tabaci;Piégeage;Alimentaire et chromatique;BEMITA
+Cultures légumières;Cucurbitacées;Concombre;Dacus ciliatus;Piégeage;Alimentaire et chromatique;DACUCI
+Cultures légumières;Cucurbitacées;Concombre;Bactrocera dorsalis;Piégeage;methyl-eugenol;DACUDO
+Cultures légumières;Cucurbitacées;Concombre;Spodoptera frugiperda;Piégeage;Phéromone;LAPHFR
+Cultures légumières;Cucurbitacées;Concombre;Diabrotica undecimpunctata howardi;Piégeage;Phéromone;DIABUH
+Cultures légumières;Cucurbitacées;Concombre;Diabrotica undecimpunctata undecimpunctata;Piégeage;Phéromone;DIABUN
+Cultures légumières;Cucurbitacées;Courgette;Lettuce infectious yellows virus;Examen visuel;Général;LIYV00
+Cultures légumières;Cucurbitacées;Courgette;Zeugodacus cucurbitae;Examen visuel;Général;DACUCU
+Cultures légumières;Cucurbitacées;Courgette;Bactrocera dorsalis;Examen visuel;Sur fruits;DACUDO
+Cultures légumières;Cucurbitacées;Courgette;Tomato leaf curl New Delhi virus;Examen visuel;Sur organes aériens;TOLCND
+Cultures légumières;Cucurbitacées;Courgette;Dacus ciliatus;Examen visuel;Sur organes aériens;DACUCI
+Cultures légumières;Cucurbitacées;Courgette;Liriomyza sativae;Examen visuel;Sur organes aériens;LIRISA
+Cultures légumières;Cucurbitacées;Courgette;Dacus ciliatus;Piégeage;Alimentaire;DACUCI
+Cultures légumières;Cucurbitacées;Courgette;Bemisia tabaci;Piégeage;Chromatique;BEMITA
+Cultures légumières;Cucurbitacées;Courgette;Bactrocera dorsalis;Piégeage;methyl-eugenol;DACUDO
+Cultures légumières;Cucurbitacées;Melon;Lettuce infectious yellows virus;Examen visuel;Général;LIYV00
+Cultures légumières;Cucurbitacées;Melon;Melon yellowing-associated virus;Examen visuel;Général;MYAV00
+Cultures légumières;Cucurbitacées;Melon;Squash vein yellowing virus;Examen visuel;Général;SQVYVX
+Cultures légumières;Cucurbitacées;Melon;Zeugodacus cucurbitae;Examen visuel;Général;DACUCU
+Cultures légumières;Cucurbitacées;Melon;Spodoptera frugiperda;Examen visuel;Sur feuilles;LAPHFR
+Cultures légumières;Cucurbitacées;Melon;Tomato leaf curl New Delhi virus;Examen visuel;Sur organes aériens;TOLCND
+Cultures légumières;Cucurbitacées;Melon;Dacus ciliatus;Examen visuel;Sur organes aériens;DACUCI
+Cultures légumières;Cucurbitacées;Melon;Thrips palmi;Examen visuel;Sur plantes;THRIPL
+Cultures légumières;Cucurbitacées;Melon;Bemisia tabaci;Piégeage;Alimentaire et chromatique;BEMITA
+Cultures légumières;Cucurbitacées;Melon;Dacus ciliatus;Piégeage;Alimentaire et chromatique;DACUCI
+Cultures légumières;Cucurbitacées;Melon;Spodoptera frugiperda;Piégeage;Phéromone;LAPHFR
+Cultures légumières;Fraisier;Fraise;Anthonomus bisignifer;Examen visuel;Général;ANTHBI
+Cultures légumières;Fraisier;Fraise;Anthonomus signatus;Examen visuel;Général;ANTHSI
+Cultures légumières;Fraisier;Fraise;Strawberry witches' broom phytoplasma;Examen visuel;Général;SYWB00
+Cultures légumières;Fraisier;Fraise;Popillia japonica;Examen visuel;Sur organes aériens;POPIJA
+Cultures légumières;Fraisier;Fraise;Popillia japonica;Piégeage;Alimentaire et chromatique;POPIJA
+Cultures légumières;Fraisier;Fraise;Scirtothrips aurantii;Piégeage;Alimentaire et chromatique;SCITAU
+Cultures légumières;Haricot;Haricot;Helicoverpa zea;Examen visuel;Général;HELIZE
+Cultures légumières;Haricot;Haricot;Curtobacterium flaccumfaciens pv. flaccumfaciens;Examen visuel;Sur feuilles;CORBFL
+Cultures légumières;Haricot;Haricot;Spodoptera frugiperda;Examen visuel;Sur organes;LAPHFR
+Cultures légumières;Haricot;Haricot;Thaumatotibia leucotreta;Examen visuel;Sur organes;ARGPLE
+Cultures légumières;Haricot;Haricot;Cowpea mild mottle virus;Examen visuel;Sur plantes;CPMMV0
+Cultures légumières;Haricot;Haricot;Spodoptera frugiperda;Piégeage;Phéromone;LAPHFR
+Cultures légumières;Haricot;Haricot;Thaumatotibia leucotreta;Piégeage;Phéromone;ARGPLE
+Cultures légumières;Haricot;Haricot;Helicoverpa zea;Piégeage;Phéromone;HELIZE
+Cultures légumières;Légumes feuilles;Epinard;Beet necrotic yellow vein virus;Prélèvement asymptomatique;Beet necrotic yellow vein virus;BNYVV0
+Cultures légumières;Patate douce;Patate douce;Sweet potato chlorotic stunt virus;Examen visuel;Sur plantes;SPCSV0
+Cultures légumières;Patate douce;Patate douce;Sweet potato mild mottle virus;Examen visuel;Sur plantes;SPMMV0
+Cultures légumières;PPAMC;Immortelle d'Italie;Xylella fastidiosa;Examen visuel;Sur organes aériens;XYLEFA
+Cultures légumières;PPAMC;Immortelle d'Italie;Xylella fastidiosa;Prélèvement asymptomatique;Sur organes aériens;XYLEFA
+Cultures légumières;PPAMC;Lavande;Xylella fastidiosa;Examen visuel;Sur organes aériens;XYLEFA
+Cultures légumières;PPAMC;Lavande;Xylella fastidiosa;Prélèvement asymptomatique;Sur organes aériens;XYLEFA
+Cultures légumières;PPAMC;Lavandin;Xylella fastidiosa;Examen visuel;Sur organes aériens;XYLEFA
+Cultures légumières;PPAMC;Lavandin;Xylella fastidiosa;Prélèvement asymptomatique;Sur organes aériens;XYLEFA
+Cultures légumières;PPAMC;Menthe;Bactericera cockerelli;Piégeage;Chromatique ou filet;PARZCO
+Cultures légumières;PPAMC;Origan;Xylella fastidiosa;Examen visuel;Sur organes aériens;XYLEFA
+Cultures légumières;PPAMC;Origan;Xylella fastidiosa;Prélèvement asymptomatique;Sur organes aériens;XYLEFA
+Cultures légumières;PPAMC;Romarin;Xylella fastidiosa;Examen visuel;Sur organes aériens;XYLEFA
+Cultures légumières;PPAMC;Sariette;Xylella fastidiosa;Examen visuel;Sur organes aériens;XYLEFA
+Cultures légumières;PPAMC;Sariette;Xylella fastidiosa;Prélèvement asymptomatique;Sur organes aériens;XYLEFA
+Cultures légumières;PPAMC;Thym;Xylella fastidiosa;Examen visuel;Sur organes aériens;XYLEFA
+Cultures légumières;PPAMC;Thym;Xylella fastidiosa;Prélèvement asymptomatique;Sur organes aériens;XYLEFA
+Cultures légumières;Salade;Salade;Lettuce infectious yellows virus;Examen visuel;Général;LIYV00
+Cultures légumières;Solanacées;Aubergine;Hishimonus phycitis;Examen visuel;Général;HISHPH
+Cultures légumières;Solanacées;Aubergine;Anthonomus eugenii;Examen visuel;Sur fleurs et fruits;ANTHEU
+Cultures légumières;Solanacées;Aubergine;Neoleucinodes elegantalis;Examen visuel;Sur fleurs et fruits;NEOLEL
+Cultures légumières;Solanacées;Aubergine;Helicoverpa zea;Examen visuel;Sur fleurs et fruits;HELIZE
+Cultures légumières;Solanacées;Aubergine;Bactrocera dorsalis;Examen visuel;Sur fruits;DACUDO
+Cultures légumières;Solanacées;Aubergine;Spodoptera frugiperda;Examen visuel;Sur organes;LAPHFR
+Cultures légumières;Solanacées;Aubergine;Thaumatotibia leucotreta;Examen visuel;Sur organes;ARGPLE
+Cultures légumières;Solanacées;Aubergine;Tomato brown rugose fruit virus;Examen visuel;Sur organes aériens;TOBRFV
+Cultures légumières;Solanacées;Aubergine;Thrips palmi;Examen visuel;Sur plantes;THRIPL
+Cultures légumières;Solanacées;Aubergine;Cowpea mild mottle virus;Examen visuel;Sur plantes;CPMMV0
+Cultures légumières;Solanacées;Aubergine;Bactericera cockerelli;Piégeage;Chromatique ou filet;PARZCO
+Cultures légumières;Solanacées;Aubergine;Bactrocera dorsalis;Piégeage;methyl-eugenol;DACUDO
+Cultures légumières;Solanacées;Aubergine;Neoleucinodes elegantalis;Piégeage;Phéromone HN;NEOLEL
+Cultures légumières;Solanacées;Aubergine;Helicoverpa zea;Piégeage;Phéromone HN;HELIZE
+Cultures légumières;Solanacées;Aubergine;Spodoptera frugiperda;Piégeage;Phéromone ST;LAPHFR
+Cultures légumières;Solanacées;Aubergine;Thaumatotibia leucotreta;Piégeage;Phéromone ST;ARGPLE
+Cultures légumières;Solanacées;Aubergine;Tomato brown rugose fruit virus;Prélèvement asymptomatique;Sur organes aériens;TOBRFV
+Cultures légumières;Solanacées;Piment;Bactrocera dorsalis;Examen visuel;Sur fruits;DACUDO
+Cultures légumières;Solanacées;Piment;Anthonomus eugenii;Examen visuel;Sur organes aériens;ANTHEU
+Cultures légumières;Solanacées;Piment;Tomato leaf curl New Delhi virus;Examen visuel;Sur organes aériens;TOLCND
+Forêt-bois;Bois;Emballages;Agrilus anxius;Examen visuel;;AGRLAX
+Cultures légumières;Solanacées;Piment;Bactrocera dorsalis;Piégeage;methyl-eugenol;DACUDO
+Cultures légumières;Solanacées;Poivron;Anthonomus eugenii;Examen visuel;Sur fleurs et fruits;ANTHEU
+Cultures légumières;Solanacées;Poivron;Neoleucinodes elegantalis;Examen visuel;Sur fleurs et fruits;NEOLEL
+Cultures légumières;Solanacées;Poivron;Helicoverpa zea;Examen visuel;Sur fleurs et fruits;HELIZE
+Cultures légumières;Solanacées;Poivron;Bactrocera dorsalis;Examen visuel;Sur fruits;DACUDO
+Cultures légumières;Solanacées;Poivron;Spodoptera frugiperda;Examen visuel;Sur organes;LAPHFR
+Cultures légumières;Solanacées;Poivron;Thaumatotibia leucotreta;Examen visuel;Sur organes;ARGPLE
+Cultures légumières;Solanacées;Poivron;Tomato brown rugose fruit virus;Examen visuel;Sur organes aériens;TOBRFV
+Cultures légumières;Solanacées;Poivron;Tomato leaf curl New Delhi virus;Examen visuel;Sur organes aériens;TOLCND
+Cultures légumières;Solanacées;Poivron;Thrips palmi;Examen visuel;Sur plantes;THRIPL
+Cultures légumières;Solanacées;Poivron;Scirtothrips dorsalis;Piégeage;Chromatique;SCITDO
+Cultures légumières;Solanacées;Poivron;Bactericera cockerelli;Piégeage;Chromatique ou filet;PARZCO
+Cultures légumières;Solanacées;Poivron;Bactrocera dorsalis;Piégeage;methyl-eugenol;DACUDO
+Cultures légumières;Solanacées;Poivron;Neoleucinodes elegantalis;Piégeage;Phéromone HN;NEOLEL
+Cultures légumières;Solanacées;Poivron;Helicoverpa zea;Piégeage;Phéromone HN;HELIZE
+Cultures légumières;Solanacées;Poivron;Spodoptera frugiperda;Piégeage;Phéromone ST;LAPHFR
+Cultures légumières;Solanacées;Poivron;Thaumatotibia leucotreta;Piégeage;Phéromone ST;ARGPLE
+Cultures légumières;Solanacées;Poivron;Tomato brown rugose fruit virus;Prélèvement asymptomatique;Sur organes aériens;TOBRFV
+Cultures légumières;Solanacées;Tomate;Bemisia tabaci;Examen visuel;Général;BEMITA
+Cultures légumières;Solanacées;Tomate;Neoceratitis cyanescens;Examen visuel;Général;CERTCY
+Cultures légumières;Solanacées;Tomate;Tomato chocolàte virus;Examen visuel;Général;TOCHV0
+Cultures légumières;Solanacées;Tomate;Tomato marchitez virus;Examen visuel;Général;TOANV0
+Cultures légumières;Solanacées;Tomate;Tomato mild mottle virus;Examen visuel;Général;TOMMOV
+Cultures légumières;Solanacées;Tomate;Spodoptera frugiperda;Examen visuel;Sur feuilles;LAPHFR
+Cultures légumières;Solanacées;Tomate;Liriomyza sativae;Examen visuel;Sur feuilles;LIRISA
+Forêt-bois;Bois;Emballages;Agrilus planipennis;Examen visuel;;AGRLPL
+Cultures légumières;Solanacées;Tomate;Spodoptera eridania;Examen visuel;Sur feuilles;PRODER
+Cultures légumières;Solanacées;Tomate;Bactrocera dorsalis;Examen visuel;Sur fleurs et fruits;DACUDO
+Cultures légumières;Solanacées;Tomate;Neoleucinodes elegantalis;Examen visuel;Sur fleurs et fruits;NEOLEL
+Cultures légumières;Solanacées;Tomate;Helicoverpa zea;Examen visuel;Sur fleurs et fruits;HELIZE
+Cultures légumières;Solanacées;Tomate;Keiferia lycopersicella;Examen visuel;Sur fleurs et fruits;GNORLY
+Cultures légumières;Solanacées;Tomate;Tomato brown rugose fruit virus;Examen visuel;Sur organes aériens;TOBRFV
+Cultures légumières;Solanacées;Tomate;Tomato leaf curl New Delhi virus;Examen visuel;Sur organes aériens;TOLCND
+Cultures légumières;Solanacées;Tomate;Ralstonia solanacearum;Examen visuel;Sur plante entière;RALSSL
+Cultures légumières;Solanacées;Tomate;Cowpea mild mottle virus;Examen visuel;Sur plantes;CPMMV0
+Cultures légumières;Solanacées;Tomate;Pepino mosaic virus;Examen visuel;Sur plantes;PEPMV0
+Cultures légumières;Solanacées;Tomate;Bactericera cockerelli;Piégeage;Chromatique ou filet;PARZCO
+Cultures légumières;Solanacées;Tomate;Bactrocera dorsalis;Piégeage;methyl-eugenol;DACUDO
+Cultures légumières;Solanacées;Tomate;Neoleucinodes elegantalis;Piégeage;Phéromone HKN;NEOLEL
+Cultures légumières;Solanacées;Tomate;Helicoverpa zea;Piégeage;Phéromone HKN;HELIZE
+Cultures légumières;Solanacées;Tomate;Keiferia lycopersicella;Piégeage;Phéromone HKN;GNORLY
+Cultures légumières;Solanacées;Tomate;Spodoptera eridania;Piégeage;Phéromone Ser;PRODER
+Cultures légumières;Solanacées;Tomate;Spodoptera frugiperda;Piégeage;Phéromone Sfr;LAPHFR
+Cultures légumières;Solanacées;Tomate;Tomato brown rugose fruit virus;Prélèvement asymptomatique;Sur organes aériens;TOBRFV
+Cultures légumières;Solanacées;Tomate;Meloidogyne chitwoodi;Prélèvement asymptomatique;Terre nématodes après récolte;MELGCH
+Cultures légumières;Solanacées;Tomate;Meloidogyne fallax;Prélèvement asymptomatique;Terre nématodes après récolte;MELGFA
+Forêt-bois;Bois;Ecorces;Agrilus anxius;Examen visuel;;AGRLAX
+Forêt-bois;Bois;Ecorces;Agrilus planipennis;Examen visuel;;AGRLPL
+Forêt-bois;Bois;Ecorces;Aromia bungii;Examen visuel;;AROMBU
+Forêt-bois;Bois;Ecorces;Bursaphelenchus xylophilus;Examen visuel;;BURSXY
+Forêt-bois;Bois;Ecorces;Geosmithia morbida;Examen visuel;;GEOHMO
+Forêt-bois;Bois;Ecorces;Pityophthorus juglandis;Examen visuel;;PITOJU
+Forêt-bois;Bois;Emballages;Anoplophora glabripennis;Examen visuel;;ANOLGL
+Forêt-bois;Bois;Emballages;Aromia bungii;Examen visuel;;AROMBU
+Forêt-bois;Bois;Emballages;Bursaphelenchus xylophilus;Examen visuel;;BURSXY
+Forêt-bois;Bois;Emballages;Fusarium circinatum;Examen visuel;;GIBBCI
+Forêt-bois;Bois;Emballages;Geosmithia morbida;Examen visuel;;GEOHMO
+Forêt-bois;Bois;Emballages;Monochamus;Examen visuel;;1MONCG
+Forêt-bois;Bois;Emballages;Pityophthorus juglandis;Examen visuel;;PITOJU
+Forêt-bois;Bois;Emballages;Scolytidae;Examen visuel;;1SCOLF
+Forêt-bois;Bois;Grumes;Agrilus anxius;Examen visuel;;AGRLAX
+Forêt-bois;Bois;Grumes;Agrilus planipennis;Examen visuel;;AGRLPL
+Forêt-bois;Bois;Grumes;Anoplophora glabripennis;Examen visuel;;ANOLGL
+Forêt-bois;Bois;Grumes;Aromia bungii;Examen visuel;;AROMBU
+Forêt-bois;Bois;Grumes;Bretziella fagacearum;Examen visuel;;CERAFA
+Forêt-bois;Bois;Grumes;Bursaphelenchus xylophilus;Examen visuel;;BURSXY
+Forêt-bois;Bois;Grumes;Fusarium circinatum;Examen visuel;;GIBBCI
+Forêt-bois;Bois;Grumes;Geosmithia morbida;Examen visuel;;GEOHMO
+Forêt-bois;Bois;Grumes;Monochamus;Examen visuel;;1MONCG
+Forêt-bois;Bois;Grumes;Pityophthorus juglandis;Examen visuel;;PITOJU
+Forêt-bois;Bois;Grumes;Pseudopityophthorus minutissimus;Examen visuel;;PSDPMI
+Forêt-bois;Bois;Grumes;Pseudopityophthorus pruinosus;Examen visuel;;PSDPPR
+Forêt-bois;Bois;Grumes;Saperda candida;Examen visuel;;SAPECN
+Forêt-bois;Bois;Grumes;Scolytidae;Examen visuel;;1SCOLF
+Forêt-bois;Bois;Grumes;Sphaerulina musiva;Examen visuel;;MYCOPP
+Forêt-bois;Bois;Sciages;Agrilus anxius;Examen visuel;;AGRLAX
+Forêt-bois;Bois;Sciages;Agrilus planipennis;Examen visuel;;AGRLPL
+Forêt-bois;Bois;Sciages;Aromia bungii;Examen visuel;;AROMBU
+Forêt-bois;Bois;Sciages;Bursaphelenchus xylophilus;Examen visuel;;BURSXY
+Forêt-bois;Bois;Sciages;Monochamus;Examen visuel;;1MONCG
+Forêt-bois;Bois;Sciages;Scolytidae;Examen visuel;;1SCOLF
+Forêt-bois;Forêt;Autres conifères;Acleris;Examen visuel;;1ACLRG
+Forêt-bois;Forêt;Autres conifères;Bursaphelenchus xylophilus;Examen visuel;;BURSXY
+Forêt-bois;Forêt;Autres conifères;Choristoneura;Examen visuel;;1CHONG
+Forêt-bois;Forêt;Autres conifères;Coniferiporia weirii;Examen visuel;;INONWE
+Forêt-bois;Forêt;Autres conifères;Melampsora farlowii;Examen visuel;;MELMFA
+Forêt-bois;Forêt;Autres conifères;Scolytidae;Examen visuel;;1SCOLF
+Forêt-bois;Forêt;Autres conifères;Bursaphelenchus xylophilus;Piégeage;;BURSXY
+Forêt-bois;Forêt;Autres feuillus;Agrilus anxius;Examen visuel;;AGRLAX
+Forêt-bois;Forêt;Autres feuillus;Agrilus planipennis;Examen visuel;;AGRLPL
+Forêt-bois;Forêt;Pins;Bursaphelenchus xylophilus;Examen visuel;;BURSXY
+Forêt-bois;Forêt;Autres feuillus;Anisogramma anomala;Examen visuel;;CRSPAN
+Forêt-bois;Forêt;Autres feuillus;Anoplophora chinensis;Examen visuel;;ANOLCN
+Forêt-bois;Forêt;Autres feuillus;Anoplophora glabripennis;Examen visuel;;ANOLGL
+Forêt-bois;Forêt;Autres feuillus;Aromia bungii;Examen visuel;;AROMBU
+Forêt-bois;Forêt;Autres feuillus;Davidsoniella virescens;Examen visuel;;CERAVI
+Forêt-bois;Forêt;Autres feuillus;Geosmithia morbida;Examen visuel;;GEOHMO
+Forêt-bois;Forêt;Autres feuillus;Melampsora medusae f. sp. tremuloidis;Examen visuel;;MELMMT
+Forêt-bois;Forêt;Autres feuillus;Pityophthorus juglandis;Examen visuel;;PITOJU
+Forêt-bois;Forêt;Autres feuillus;Saperda candida;Examen visuel;;SAPECN
+Forêt-bois;Forêt;Autres feuillus;Scolytidae;Examen visuel;;1SCOLF
+Forêt-bois;Forêt;Autres feuillus;Stegophora ulmea;Examen visuel;;GNOMUL
+Forêt-bois;Forêt;Autres feuillus;Xylella fastidiosa;Examen visuel;;XYLEFA
+Forêt-bois;Forêt;Chênes;Bretziella fagacearum;Examen visuel;;CERAFA
+Forêt-bois;Forêt;Chênes;Phytophthora ramorum;Examen visuel;;PHYTRA
+Forêt-bois;Forêt;Chênes;Pseudopityophthorus minutissimus;Examen visuel;;PSDPMI
+Forêt-bois;Forêt;Chênes;Pseudopityophthorus pruinosus;Examen visuel;;PSDPPR
+Forêt-bois;Forêt;Chênes;Scolytidae;Examen visuel;;1SCOLF
+Forêt-bois;Forêt;Chênes;Xylella fastidiosa;Examen visuel;;XYLEFA
+Forêt-bois;Forêt;Douglas;Coniferiporia sulphurascens;Examen visuel;;PHELSU
+Forêt-bois;Forêt;Douglas;Dendrolimus sibiricus;Examen visuel;;DENDSI
+Forêt-bois;Forêt;Douglas;Scolytidae;Examen visuel;;1SCOLF
+Forêt-bois;Forêt;Mélèzes;Botryosphaeria laricina;Examen visuel;;GUIGLA
+Forêt-bois;Forêt;Mélèzes;Coniferiporia sulphurascens;Examen visuel;;PHELSU
+Forêt-bois;Forêt;Mélèzes;Dendrolimus sibiricus;Examen visuel;;DENDSI
+Forêt-bois;Forêt;Mélèzes;Mycodiella laricis-leptolepidis;Examen visuel;;MYCOLL
+Forêt-bois;Forêt;Mélèzes;Phytophthora ramorum;Examen visuel;;PHYTRA
+Forêt-bois;Forêt;Mélèzes;Scolytidae;Examen visuel;;1SCOLF
+Forêt-bois;Forêt;Peupliers;Anoplophora chinensis;Examen visuel;;ANOLCN
+Forêt-bois;Forêt;Peupliers;Anoplophora glabripennis;Examen visuel;;ANOLGL
+Forêt-bois;Forêt;Peupliers;Dendrolimus sibiricus;Examen visuel;;DENDSI
+Forêt-bois;Forêt;Peupliers;Scolytidae;Examen visuel;;1SCOLF
+Forêt-bois;Forêt;Peupliers;Sphaerulina musiva;Examen visuel;;MYCOPP
+Forêt-bois;Forêt;Pins;Atropellis;Examen visuel;;1ATRPG
+Forêt-bois;Forêt;Pins;Cronartium;Examen visuel;;1CRONG
+Forêt-bois;Forêt;Pins;Fusarium circinatum;Examen visuel;;GIBBCI
+Forêt-bois;Forêt;Pins;Monochamus;Examen visuel;;1MONCG
+Forêt-bois;Forêt;Pins;Pissodes nemorensis;Examen visuel;;PISONE
+Forêt-bois;Forêt;Pins;Pissodes nitidus;Examen visuel;;PISONI
+Forêt-bois;Forêt;Pins;Pissodes terminalis;Examen visuel;;PISOTE
+Forêt-bois;Forêt;Pins;Pissodes yunnanensis;Examen visuel;;PISOYU
+Forêt-bois;Forêt;Pins;Pseudocercospora pini-densiflorae;Examen visuel;;CERSPD
+Forêt-bois;Forêt;Pins;Scolytidae;Examen visuel;;1SCOLF
+Forêt-bois;Forêt;Pins;Bursaphelenchus xylophilus;Piégeage;;BURSXY
+Forêt-bois;Forêt;Sapins/Epicéas;Chrysomyxa arctostaphyli;Examen visuel;;CHMYAR
+Forêt-bois;Forêt;Sapins/Epicéas;Coniferiporia sulphurascens;Examen visuel;;PHELSU
+Forêt-bois;Forêt;Sapins/Epicéas;Dendrolimus sibiricus;Examen visuel;;DENDSI
+Forêt-bois;Forêt;Sapins/Epicéas;Pissodes nemorensis;Examen visuel;;PISONE
+Forêt-bois;Forêt;Sapins/Epicéas;Pissodes strobi;Examen visuel;;PISOST
+Forêt-bois;Forêt;Sapins/Epicéas;Polygraphus proximus;Examen visuel;;POLGPR
+Forêt-bois;Forêt;Sapins/Epicéas;Scolytidae;Examen visuel;;1SCOLF
+Grandes cultures;Céréales hors maïs et riz, oléagineux et protéagineux;Blé;Listronotus bonariensis;Examen visuel;Général;HYROBO
+Grandes cultures;Céréales hors maïs et riz, oléagineux et protéagineux;Blé;Tilletia indica;Prélèvement asymptomatique;Grain;NEOVIN
+Grandes cultures;Céréales hors maïs et riz, oléagineux et protéagineux;Soja;Popillia japonica;Examen visuel;Multiple;POPIJA
+Grandes cultures;Céréales hors maïs et riz, oléagineux et protéagineux;Soja;Tobacco ringspot virus;Examen visuel;Multiple;TRSV00
+Grandes cultures;Céréales hors maïs et riz, oléagineux et protéagineux;Sorgho;Liriomyza sativae;Examen visuel;Général;LIRISA
+Grandes cultures;Céréales hors maïs et riz, oléagineux et protéagineux;Sorgho;Xylella fastidiosa;Examen visuel;Général;XYLEFA
+Grandes cultures;Céréales hors maïs et riz, oléagineux et protéagineux;Sorgho;Xylella fastidiosa;Prélèvement asymptomatique;Rameau feuillé;XYLEFA
+Grandes cultures;Céréales hors maïs et riz, oléagineux et protéagineux;Tournesol;Xylella fastidiosa;Examen visuel;Général;XYLEFA
+Grandes cultures;Céréales hors maïs et riz, oléagineux et protéagineux;Tournesol;Xylella fastidiosa;Prélèvement asymptomatique;Rameau feuillé;XYLEFA
+Grandes cultures;Cultures industrielles et fourragères;Betterave fourragère;Beet necrotic yellow vein virus;Examen visuel;Beet necrotic yellow vein virus;BNYVV0
+Grandes cultures;Cultures industrielles et fourragères;Betterave industrielle;Beet curly top virus;Examen visuel;Beet curly top virus;BCTV00
+Grandes cultures;Cultures industrielles et fourragères;Betterave industrielle;Meloidogyne chitwoodi;Examen visuel;Général;MELGCH
+Grandes cultures;Cultures industrielles et fourragères;Betterave industrielle;Meloidogyne fallax;Examen visuel;Général;MELGFA
+Grandes cultures;Riz;Riz;Xanthomonas oryzae pv. oryzae;Examen visuel;Multiple;XANTOR
+Grandes cultures;Cultures industrielles et fourragères;Betterave industrielle;Meloidogyne chitwoodi;Prélèvement asymptomatique;Terre;MELGCH
+Grandes cultures;Cultures industrielles et fourragères;Betterave industrielle;Meloidogyne fallax;Prélèvement asymptomatique;Terre;MELGFA
+Grandes cultures;Cultures industrielles et fourragères;Luzerne;Liriomyza sativae;Examen visuel;Général;LIRISA
+Grandes cultures;Cultures industrielles et fourragères;Luzerne;Popillia japonica;Examen visuel;Général;POPIJA
+Grandes cultures;Cultures industrielles et fourragères;Luzerne;Xylella fastidiosa;Prélèvement asymptomatique;Xylella fastidiosa;XYLEFA
+Grandes cultures;Cultures industrielles et fourragères;Prairie graminées;Blitopertha orientalis;Examen visuel;Blitopertha orientalis;ANMLOR
+Grandes cultures;Cultures industrielles et fourragères;Prairie graminées;Listronotus bonariensis;Examen visuel;Listronotus bonariensis;HYROBO
+Grandes cultures;Cultures industrielles et fourragères;Prairie graminées;Popillia japonica;Examen visuel;Popillia japonica;POPIJA
+Grandes cultures;Cultures industrielles et fourragères;Ray-grass;Listronotus bonariensis;Examen visuel;Listronotus bonariensis;HYROBO
+Grandes cultures;Cultures industrielles et fourragères;Tabac;Bemisia tabaci;Examen visuel;Général;BEMITA
+Grandes cultures;Cultures industrielles et fourragères;Trèfle;Popillia japonica;Examen visuel;Général;POPIJA
+Grandes cultures;Maïs;Maïs;Diabrotica barberi;Examen visuel;Multiple;DIABLO
+Grandes cultures;Maïs;Maïs;Helicoverpa zea;Examen visuel;Multiple;HELIZE
+Grandes cultures;Maïs;Maïs;Spodoptera frugiperda;Examen visuel;Multiple;LAPHFR
+Grandes cultures;Maïs;Maïs;Diabrotica undecimpunctata howardi;Examen visuel;Multiple;DIABUH
+Grandes cultures;Maïs;Maïs;Diabrotica undecimpunctata undecimpunctata;Examen visuel;Multiple;DIABUN
+Grandes cultures;Maïs;Maïs;Diabrotica virgifera zeae;Examen visuel;Multiple;DIABVZ
+Grandes cultures;Maïs;Maïs;Popillia japonica;Examen visuel;Multiple;POPIJA
+Grandes cultures;Maïs;Maïs;Spodoptera litura;Examen visuel;Multiple;PRODLI
+Grandes cultures;Maïs;Maïs;Thaumatotibia leucotreta;Examen visuel;Multiple;ARGPLE
+Grandes cultures;Maïs;Maïs;Blitopertha orientalis;Examen visuel;Multiple;ANMLOR
+Grandes cultures;Maïs;Maïs;Listronotus bonariensis;Examen visuel;Multiple;HYROBO
+Grandes cultures;Maïs;Maïs;Spodoptera eridania;Examen visuel;Multiple;PRODER
+Grandes cultures;Maïs;Maïs;Diabrotica barberi;Piégeage;Chromatique;DIABLO
+Grandes cultures;Maïs;Maïs;Diabrotica undecimpunctata howardi;Piégeage;Chromatique;DIABUH
+Grandes cultures;Maïs;Maïs;Diabrotica undecimpunctata undecimpunctata;Piégeage;Chromatique;DIABUN
+Grandes cultures;Maïs;Maïs;Diabrotica virgifera zeae;Piégeage;Chromatique;DIABVZ
+Grandes cultures;Maïs;Maïs;Helicoverpa zea;Piégeage;Lumineux;HELIZE
+Grandes cultures;Maïs;Maïs;Spodoptera frugiperda;Piégeage;Lumineux;LAPHFR
+Grandes cultures;Maïs;Maïs;Spodoptera litura;Piégeage;Lumineux;PRODLI
+Grandes cultures;Maïs;Maïs;Thaumatotibia leucotreta;Piégeage;Lumineux;ARGPLE
+Grandes cultures;Maïs;Maïs;Spodoptera eridania;Piégeage;Lumineux;PRODER
+Grandes cultures;Maïs;Maïs;Spodoptera frugiperda;Piégeage;Phéromone;LAPHFR
+Grandes cultures;Maïs;Maïs;Diabrotica barberi;Piégeage;Phéromone;DIABLO
+Grandes cultures;Maïs;Maïs doux;Pantoea stewartii;Examen visuel;Pantoea stewartii;ERWIST
+Grandes cultures;Maïs;Maïs fourrage;Pantoea stewartii;Examen visuel;Pantoea stewartii;ERWIST
+Grandes cultures;Maïs;Maïs grain;Pantoea stewartii;Examen visuel;Pantoea stewartii;ERWIST
+Grandes cultures;Maïs;Maïs pop corn;Pantoea stewartii;Examen visuel;Pantoea stewartii;ERWIST
+Grandes cultures;Riz;Riz;Pomacea;Examen visuel;Multiple;POMACA
+JEVI;Arboretums;Frêne;Agrilus planipennis;Examen visuel;;AGRLPL
+Grandes cultures;Riz;Riz;Xanthomonas oryzae pv. oryzicola;Examen visuel;Multiple;XANTTO
+Grandes cultures;Riz;Riz;Hirschmanniella;Prélèvement asymptomatique;Terre;1HIRSG
+Grandes cultures;Riz;Riz;Meloidogyne graminicola;Prélèvement asymptomatique;Terre;MELGGC
+JEVI;Arboretums;Acer, Aesculus, Betula, Castanea, Juglans, Malus, Platanus, Populus, Prunus, Rosa, Rubus, Salix, Tilia, Ulmus, Vitis, gazons de graminées;Popillia japonica;Examen visuel;;POPIJA
+JEVI;Arboretums;Agrumes;Anastrepha ludens;Examen visuel;;ANSTLU
+JEVI;Arboretums;Agrumes;Liberibacter spp.;Examen visuel;;1LIBEG
+JEVI;Arboretums;Agrumes;Phyllosticta citricarpa;Examen visuel;;GUIGCI
+JEVI;Arboretums;Agrumes;Thaumatotibia leucotreta;Examen visuel;;ARGPLE
+JEVI;Arboretums;Agrumes;Acleris;Examen visuel;;1ACLRG
+JEVI;Arboretums;Agrumes;Aleurocanthus citriperdus;Examen visuel;;ALECCT
+JEVI;Arboretums;Agrumes;Aleurocanthus spiniferus;Examen visuel;;ALECSN
+JEVI;Arboretums;Agrumes;Aleurocanthus woglumi;Examen visuel;;ALECWO
+JEVI;Arboretums;Agrumes;Citrus tristeza virus;Examen visuel;;CTV000
+JEVI;Arboretums;Agrumes;Diaphorina citri;Examen visuel;;DIAACI
+JEVI;Arboretums;Agrumes;Elsinoë fawcettii;Examen visuel;;ELSIFA
+JEVI;Arboretums;Agrumes;Haplaxius crudus;Examen visuel;;MYNDCR
+JEVI;Arboretums;Agrumes;Pseudocercospora angolensis;Examen visuel;;CERCAN
+JEVI;Arboretums;Agrumes;Satsuma dwarf virus;Examen visuel;;SDV000
+JEVI;Arboretums;Agrumes;Scirtothrips citri;Examen visuel;;SCITCI
+JEVI;Arboretums;Agrumes;Toxoptera citricidus;Examen visuel;;TOXOCI
+JEVI;Arboretums;Agrumes;Trioza erytreae;Examen visuel;;TRIZER
+JEVI;Arboretums;Agrumes;Unaspis citri;Examen visuel;;UNASCI
+JEVI;Arboretums;Agrumes;Xanthomonas citri pv. citri;Examen visuel;;XANTCI
+JEVI;Arboretums;Aulne, bouleau, charme, érable, agrume, platane, poirier, Prunus, pommier, orme, noisetier, lilas, peuplier…;Anoplophora chinensis;Examen visuel;;ANOLCN
+JEVI;Arboretums;Aulne, bouleau, érable, peuplier, saule, marronnier, tilleul…;Anoplophora glabripennis;Examen visuel;;ANOLGL
+JEVI;Arboretums;Bananier;Ralstonia syzygii subsp. celebesensis;Examen visuel;;RALSSC
+JEVI;Arboretums;Bouleau;Agrilus anxius;Examen visuel;;AGRLAX
+JEVI;Arboretums;Camélia;Scirtothrips dorsalis;Examen visuel;;SCITDO
+JEVI;Arboretums;Camélia, tabac d’ornement et autres plantes ornementales herbacées;Spodoptera litura;Examen visuel;;PRODLI
+JEVI;Arboretums;Camellia, Rhododendron, Viburnum, Pieris, Taxus, Syringa…;Phytophthora ramorum;Examen visuel;;PHYTRA
+JEVI;Arboretums;Chêne;Bretziella fagacearum;Examen visuel;;CERAFA
+JEVI;Arboretums;Chêne;Arrhenodes minutus;Examen visuel;;ARRHMI
+JEVI;Arboretums;Chêne rouge d’Amérique;Pseudopityophthorus minutissimus;Examen visuel;;PSDPMI
+JEVI;Arboretums;Chêne rouge d’Amérique;Pseudopityophthorus pruinosus;Examen visuel;;PSDPPR
+JEVI;Arboretums;Cocotier;Coconut cadang-cadang viroid;Examen visuel;;CCCVD0
+JEVI;Arboretums;Conifères ;Coniferiporia weirii;Examen visuel;;INONWE
+JEVI;Arboretums;Conifères ;Oligonychus perditus;Examen visuel;;OLIGPD
+JEVI;Arboretums;Conifères, peuplier;Melampsora medusae f. sp. tremuloidis;Examen visuel;;MELMMT
+JEVI;Arboretums;Crataegus, Cydonia, Chaenomeles, Cotoneaster, Mespilus, Eriobotrya, Malus, Pyracantha, Pyrus, Sorbus, Stanvaesia (= Photinia) davidiana;Erwinia amylovora;Examen visuel;;ERWIAM
+JEVI;Arboretums;Dessous de pots, bâches de culture;Pomacea;Examen visuel;;POMACA
+JEVI;Arboretums;Genévrier ;Aschistonyx eppoi;Examen visuel;;ASCXEP
+JEVI;Arboretums;Mélèze ;Mycodiella laricis-leptolepidis;Examen visuel;;MYCOLL
+JEVI;Arboretums;Mélèze ;Botryosphaeria laricina;Examen visuel;;GUIGLA
+JEVI;Arboretums;Noisetier;Anisogramma anomala;Examen visuel;;CRSPAN
+JEVI;Arboretums;Nombreuses plantes, dont conifères;Arceuthobium;Examen visuel;;1AREG
+JEVI;Arboretums;Nombreux arbres et arbustes;Scolytidae;Examen visuel;;1SCOLF
+JEVI;Arboretums;Noyer noir d’Amérique;Geosmithia morbida;Examen visuel;;GEOHMO
+JEVI;Arboretums;Orme;Stegophora ulmea;Examen visuel;;GNOMUL
+JEVI;Arboretums;Palmier dattier;Fusarium oxysporum f. sp. albedinis;Examen visuel;;FUSAAL
+JEVI;Arboretums;Palmiers;Rhynchophorus palmarum;Examen visuel;;RHYCPA
+JEVI;Arboretums;Palmiers;Coconut lethal yellowing phytoplasma;Examen visuel;;PHYP56
+JEVI;Arboretums;Pelargonium, Hydrangea, Gladiolus, Prunus, Rubus;Tomato ringspot virus;Examen visuel;;TORSV0
+JEVI;Arboretums;Peuplier;Sphaerulina musiva;Examen visuel;;MYCOPP
+JEVI;Arboretums;Peuplier, Prunus d’ornement, platane ;Choristoneura;Examen visuel;;1CHONG
+JEVI;Arboretums;Pin;Bursaphelenchus xylophilus;Examen visuel;;BURSXY
+JEVI;Arboretums;Pin;Dendrolimus sibiricus;Examen visuel;;DENDSI
+JEVI;Arboretums;Pin;Atropellis;Examen visuel;;1ATRPG
+JEVI;Arboretums;Pin;Cronartium;Examen visuel;;1CRONG
+JEVI;Arboretums;Pin;Fusarium circinatum;Examen visuel;;GIBBCI
+JEVI;Arboretums;Pin;Pseudocercospora pini-densiflorae;Examen visuel;;CERSPD
+JEVI;Arboretums;Pin;Pissodes spp.;Examen visuel;;1PISOG
+JEVI;Arboretums;Pin et autres conifères;Monochamus;Examen visuel;;1MONCG
+JEVI;Arboretums;Platane ;Ceratocystis platani;Examen visuel;;CERAFP
+JEVI;Arboretums;Polygala myrtifolia, Euryops chrysanthemoides, ciste, lavande, romarin...;Cicadellidae;Examen visuel;;1CICDF
+JEVI;Arboretums;Polygale à feuilles de myrte, ciste, laurier-rose, lavande, mimosa, olivier, myrte, Prunus spp., romarin, vigne…;Xylella fastidiosa;Examen visuel;;XYLEFA
+JEVI;Arboretums;Pommier;Rhagoletis pomonella;Examen visuel;;RHAGPO
+JEVI;Arboretums;Prunus;Aromia bungii;Examen visuel;;AROMBU
+JEVI;Arboretums;Prunus;Saperda candida;Examen visuel;;SAPECN
+JEVI;Arboretums;Prunus;Gymnosporangium;Examen visuel;;1GYMNG
+JEVI;Arboretums;Prunus;Phyllosticta solitaria;Examen visuel;;PHYSSL
+JEVI;Arboretums;Prunus;Plum pox virus;Examen visuel;;FALSE
+JEVI;Arboretums;Prunus, tilleul, rosier;Lopholeucaspis japonica;Examen visuel;;LOPLJA
+JEVI;Arboretums;Rosier;Rose rosette virus;Examen visuel;;RRV000
+JEVI;Arboretums;Tsuga;Melampsora farlowii;Examen visuel;;MELMFA
+JEVI;Autres;Acer, Aesculus, Betula, Castanea, Juglans, Malus, Platanus, Populus, Prunus, Rosa, Rubus, Salix, Tilia, Ulmus, Vitis, gazons de graminées;Popillia japonica;Examen visuel;;POPIJA
+JEVI;Autres;Agrumes;Anastrepha ludens;Examen visuel;;ANSTLU
+JEVI;Autres;Agrumes;Liberibacter spp.;Examen visuel;;1LIBEG
+JEVI;Autres;Agrumes;Phyllosticta citricarpa;Examen visuel;;GUIGCI
+JEVI;Autres;Agrumes;Thaumatotibia leucotreta;Examen visuel;;ARGPLE
+JEVI;Autres;Agrumes;Acleris;Examen visuel;;1ACLRG
+JEVI;Autres;Agrumes;Aleurocanthus citriperdus;Examen visuel;;ALECCT
+JEVI;Autres;Agrumes;Aleurocanthus spiniferus;Examen visuel;;ALECSN
+JEVI;Autres;Agrumes;Aleurocanthus woglumi;Examen visuel;;ALECWO
+JEVI;Autres;Agrumes;Citrus tristeza virus;Examen visuel;;CTV000
+JEVI;Autres;Agrumes;Diaphorina citri;Examen visuel;;DIAACI
+JEVI;Autres;Agrumes;Elsinoë fawcettii;Examen visuel;;ELSIFA
+JEVI;Autres;Agrumes;Haplaxius crudus;Examen visuel;;MYNDCR
+JEVI;Autres;Agrumes;Pseudocercospora angolensis;Examen visuel;;CERCAN
+JEVI;Autres;Agrumes;Satsuma dwarf virus;Examen visuel;;SDV000
+JEVI;Autres;Agrumes;Scirtothrips citri;Examen visuel;;SCITCI
+JEVI;Autres;Agrumes;Toxoptera citricidus;Examen visuel;;TOXOCI
+JEVI;Autres;Agrumes;Trioza erytreae;Examen visuel;;TRIZER
+JEVI;Autres;Agrumes;Unaspis citri;Examen visuel;;UNASCI
+JEVI;Autres;Agrumes;Xanthomonas citri pv. citri;Examen visuel;;XANTCI
+JEVI;Autres;Aulne, bouleau, charme, érable, agrume, platane, poirier, Prunus, pommier, orme, noisetier, lilas, peuplier…;Anoplophora chinensis;Examen visuel;;ANOLCN
+JEVI;Autres;Aulne, bouleau, érable, peuplier, saule, marronnier, tilleul…;Anoplophora glabripennis;Examen visuel;;ANOLGL
+JEVI;Autres;Bananier;Ralstonia syzygii subsp. celebesensis;Examen visuel;;RALSSC
+JEVI;Autres;Bouleau;Agrilus anxius;Examen visuel;;AGRLAX
+JEVI;Autres;Camélia;Scirtothrips dorsalis;Examen visuel;;SCITDO
+JEVI;Autres;Camélia, tabac d’ornement et autres plantes ornementales herbacées;Spodoptera litura;Examen visuel;;PRODLI
+JEVI;Autres;Camellia, Rhododendron, Viburnum, Pieris, Taxus, Syringa…;Phytophthora ramorum;Examen visuel;;PHYTRA
+JEVI;Autres;Chêne;Bretziella fagacearum;Examen visuel;;CERAFA
+JEVI;Autres;Chêne;Arrhenodes minutus;Examen visuel;;ARRHMI
+JEVI;Autres;Chêne rouge d’Amérique;Pseudopityophthorus minutissimus;Examen visuel;;PSDPMI
+JEVI;Autres;Chêne rouge d’Amérique;Pseudopityophthorus pruinosus;Examen visuel;;PSDPPR
+JEVI;Autres;Chrysanthème;Chrysanthemum stem necrosis orthotospovirus;Examen visuel;;CSNV00
+JEVI;Autres;Chrysanthème;Nemorimyza maculosa;Examen visuel;;AMAZMA
+JEVI;Autres;Chrysanthèmes, ipomées, œillets, pélargonium et autres plantes à massif sensibles;Spodoptera frugiperda;Examen visuel;;LAPHFR
+JEVI;Autres;Cocotier;Coconut cadang-cadang viroid;Examen visuel;;CCCVD0
+JEVI;Autres;Conifères ;Coniferiporia weirii;Examen visuel;;INONWE
+JEVI;Autres;Conifères ;Oligonychus perditus;Examen visuel;;OLIGPD
+JEVI;Autres;Conifères, peuplier;Melampsora medusae f. sp. tremuloidis;Examen visuel;;MELMMT
+JEVI;Autres;Crataegus, Cydonia, Chaenomeles, Cotoneaster, Mespilus, Eriobotrya, Malus, Pyracantha, Pyrus, Sorbus, Stanvaesia (= Photinia) davidiana;Erwinia amylovora;Examen visuel;;ERWIAM
+JEVI;Autres;Dessous de pots, bâches de culture;Pomacea;Examen visuel;;POMACA
+JEVI;Autres;Frêne;Agrilus planipennis;Examen visuel;;AGRLPL
+JEVI;Autres;Genévrier ;Aschistonyx eppoi;Examen visuel;;ASCXEP
+JEVI;Autres;Hibiscus d'intérieur, Pelargonium, palmiers, plantes vertes, grenadier, laurier-rose...;Ripersiella hibisci;Examen visuel;;RHIOHI
+JEVI;Autres;Malvacées (hibiscus, lavatère, rose trémière, mauve…);Anthonomus grandis grandis;Examen visuel;;ANTHGR
+JEVI;Autres;Mélèze ;Mycodiella laricis-leptolepidis;Examen visuel;;MYCOLL
+JEVI;Autres;Mélèze ;Botryosphaeria laricina;Examen visuel;;GUIGLA
+JEVI;Autres;Noisetier;Anisogramma anomala;Examen visuel;;CRSPAN
+JEVI;Autres;Nombreuses plantes, dont conifères;Arceuthobium;Examen visuel;;1AREG
+JEVI;Autres;Nombreux arbres et arbustes;Scolytidae;Examen visuel;;1SCOLF
+JEVI;Autres;Noyer noir d’Amérique;Geosmithia morbida;Examen visuel;;GEOHMO
+JEVI;Autres;Orme;Stegophora ulmea;Examen visuel;;GNOMUL
+JEVI;Autres;Palmier dattier;Fusarium oxysporum f. sp. albedinis;Examen visuel;;FUSAAL
+JEVI;Autres;Palmiers;Rhynchophorus palmarum;Examen visuel;;RHYCPA
+JEVI;Autres;Palmiers;Coconut lethal yellowing phytoplasma;Examen visuel;;PHYP56
+JEVI;Autres;Pelargonium, Hydrangea, Gladiolus, Prunus, Rubus;Tomato ringspot virus;Examen visuel;;TORSV0
+JEVI;Autres;Petunia, Solanum;Liriomyza sativae;Examen visuel;;LIRISA
+JEVI;Autres;Peuplier;Sphaerulina musiva;Examen visuel;;MYCOPP
+JEVI;Autres;Peuplier, Prunus d’ornement, platane ;Choristoneura;Examen visuel;;1CHONG
+JEVI;Autres;Pin;Bursaphelenchus xylophilus;Examen visuel;;BURSXY
+JEVI;Autres;Pin;Dendrolimus sibiricus;Examen visuel;;DENDSI
+JEVI;Autres;Pin;Atropellis;Examen visuel;;1ATRPG
+JEVI;Autres;Pin;Cronartium;Examen visuel;;1CRONG
+JEVI;Autres;Pin;Fusarium circinatum;Examen visuel;;GIBBCI
+JEVI;Autres;Pin;Pseudocercospora pini-densiflorae;Examen visuel;;CERSPD
+JEVI;Autres;Pin;Pissodes spp.;Examen visuel;;1PISOG
+JEVI;Autres;Pin et autres conifères;Monochamus;Examen visuel;;1MONCG
+JEVI;Autres;Plantes florales herbacées;Spodoptera eridania;Examen visuel;;PRODER
+JEVI;Autres;Platane ;Ceratocystis platani;Examen visuel;;CERAFP
+JEVI;Autres;Polygala myrtifolia, Euryops chrysanthemoides, ciste, lavande, romarin...;Cicadellidae;Examen visuel;;1CICDF
+JEVI;Autres;Polygale à feuilles de myrte, ciste, laurier-rose, lavande, mimosa, olivier, myrte, Prunus spp., romarin, vigne…;Xylella fastidiosa;Examen visuel;;XYLEFA
+JEVI;Autres;Pommier;Rhagoletis pomonella;Examen visuel;;RHAGPO
+JEVI;Autres;Prunus;Aromia bungii;Examen visuel;;AROMBU
+JEVI;Autres;Prunus;Saperda candida;Examen visuel;;SAPECN
+JEVI;Autres;Prunus;Gymnosporangium;Examen visuel;;1GYMNG
+JEVI;Autres;Prunus;Phyllosticta solitaria;Examen visuel;;PHYSSL
+JEVI;Autres;Prunus;Plum pox virus;Examen visuel;;FALSE
+JEVI;Autres;Prunus, tilleul, rosier;Lopholeucaspis japonica;Examen visuel;;LOPLJA
+JEVI;Autres;Rosier;Rose rosette virus;Examen visuel;;RRV000
+JEVI;Autres;Tsuga;Melampsora farlowii;Examen visuel;;MELMFA
+JEVI;Gazons sportifs;Acer, Aesculus, Betula, Castanea, Juglans, Malus, Platanus, Populus, Prunus, Rosa, Rubus, Salix, Tilia, Ulmus, Vitis, gazons de graminées;Popillia japonica;Examen visuel;;POPIJA
+JEVI;Gazons sportifs;Polygala myrtifolia, Euryops chrysanthemoides, ciste, lavande, romarin...;Cicadellidae;Examen visuel;;1CICDF
+JEVI;Infrastructures (routes, voies ferrées, aéroports), zones industrielles et commerciales, cimetières paysagers;Acer, Aesculus, Betula, Castanea, Juglans, Malus, Platanus, Populus, Prunus, Rosa, Rubus, Salix, Tilia, Ulmus, Vitis, gazons de graminées;Popillia japonica;Examen visuel;;POPIJA
+JEVI;Infrastructures (routes, voies ferrées, aéroports), zones industrielles et commerciales, cimetières paysagers;Aulne, bouleau, charme, érable, agrume, platane, poirier, Prunus, pommier, orme, noisetier, lilas, peuplier…;Anoplophora chinensis;Examen visuel;;ANOLCN
+JEVI;Infrastructures (routes, voies ferrées, aéroports), zones industrielles et commerciales, cimetières paysagers;Aulne, bouleau, érable, peuplier, saule, marronnier, tilleul…;Anoplophora glabripennis;Examen visuel;;ANOLGL
+JEVI;Infrastructures (routes, voies ferrées, aéroports), zones industrielles et commerciales, cimetières paysagers;Bouleau;Agrilus anxius;Examen visuel;;AGRLAX
+JEVI;Infrastructures (routes, voies ferrées, aéroports), zones industrielles et commerciales, cimetières paysagers;Camélia;Scirtothrips dorsalis;Examen visuel;;SCITDO
+JEVI;Infrastructures (routes, voies ferrées, aéroports), zones industrielles et commerciales, cimetières paysagers;Camélia, tabac d’ornement et autres plantes ornementales herbacées;Spodoptera litura;Examen visuel;;PRODLI
+JEVI;Infrastructures (routes, voies ferrées, aéroports), zones industrielles et commerciales, cimetières paysagers;Camellia, Rhododendron, Viburnum, Pieris, Taxus, Syringa…;Phytophthora ramorum;Examen visuel;;PHYTRA
+JEVI;Infrastructures (routes, voies ferrées, aéroports), zones industrielles et commerciales, cimetières paysagers;Chêne;Bretziella fagacearum;Examen visuel;;CERAFA
+JEVI;Infrastructures (routes, voies ferrées, aéroports), zones industrielles et commerciales, cimetières paysagers;Chêne;Arrhenodes minutus;Examen visuel;;ARRHMI
+JEVI;Infrastructures (routes, voies ferrées, aéroports), zones industrielles et commerciales, cimetières paysagers;Chêne rouge d’Amérique;Pseudopityophthorus minutissimus;Examen visuel;;PSDPMI
+JEVI;Infrastructures (routes, voies ferrées, aéroports), zones industrielles et commerciales, cimetières paysagers;Chêne rouge d’Amérique;Pseudopityophthorus pruinosus;Examen visuel;;PSDPPR
+JEVI;Infrastructures (routes, voies ferrées, aéroports), zones industrielles et commerciales, cimetières paysagers;Chrysanthème;Chrysanthemum stem necrosis orthotospovirus;Examen visuel;;CSNV00
+JEVI;Infrastructures (routes, voies ferrées, aéroports), zones industrielles et commerciales, cimetières paysagers;Chrysanthème;Nemorimyza maculosa;Examen visuel;;AMAZMA
+JEVI;Infrastructures (routes, voies ferrées, aéroports), zones industrielles et commerciales, cimetières paysagers;Chrysanthèmes, ipomées, œillets, pélargonium et autres plantes à massif sensibles;Spodoptera frugiperda;Examen visuel;;LAPHFR
+JEVI;Infrastructures (routes, voies ferrées, aéroports), zones industrielles et commerciales, cimetières paysagers;Conifères ;Coniferiporia weirii;Examen visuel;;INONWE
+JEVI;Infrastructures (routes, voies ferrées, aéroports), zones industrielles et commerciales, cimetières paysagers;Conifères ;Oligonychus perditus;Examen visuel;;OLIGPD
+JEVI;Infrastructures (routes, voies ferrées, aéroports), zones industrielles et commerciales, cimetières paysagers;Conifères, peuplier;Melampsora medusae f. sp. tremuloidis;Examen visuel;;MELMMT
+JEVI;Infrastructures (routes, voies ferrées, aéroports), zones industrielles et commerciales, cimetières paysagers;Crataegus, Cydonia, Chaenomeles, Cotoneaster, Mespilus, Eriobotrya, Malus, Pyracantha, Pyrus, Sorbus, Stanvaesia (= Photinia) davidiana;Erwinia amylovora;Examen visuel;;ERWIAM
+JEVI;Infrastructures (routes, voies ferrées, aéroports), zones industrielles et commerciales, cimetières paysagers;Dessous de pots, bâches de culture;Pomacea;Examen visuel;;POMACA
+JEVI;Infrastructures (routes, voies ferrées, aéroports), zones industrielles et commerciales, cimetières paysagers;Frêne;Agrilus planipennis;Examen visuel;;AGRLPL
+JEVI;Infrastructures (routes, voies ferrées, aéroports), zones industrielles et commerciales, cimetières paysagers;Genévrier ;Aschistonyx eppoi;Examen visuel;;ASCXEP
+JEVI;Infrastructures (routes, voies ferrées, aéroports), zones industrielles et commerciales, cimetières paysagers;Hibiscus d'intérieur, Pelargonium, palmiers, plantes vertes, grenadier, laurier-rose...;Ripersiella hibisci;Examen visuel;;RHIOHI
+JEVI;Infrastructures (routes, voies ferrées, aéroports), zones industrielles et commerciales, cimetières paysagers;Malvacées (hibiscus, lavatère, rose trémière, mauve…);Anthonomus grandis grandis;Examen visuel;;ANTHGR
+JEVI;Infrastructures (routes, voies ferrées, aéroports), zones industrielles et commerciales, cimetières paysagers;Mélèze ;Mycodiella laricis-leptolepidis;Examen visuel;;MYCOLL
+JEVI;Infrastructures (routes, voies ferrées, aéroports), zones industrielles et commerciales, cimetières paysagers;Mélèze ;Botryosphaeria laricina;Examen visuel;;GUIGLA
+JEVI;Infrastructures (routes, voies ferrées, aéroports), zones industrielles et commerciales, cimetières paysagers;Noisetier;Anisogramma anomala;Examen visuel;;CRSPAN
+JEVI;Infrastructures (routes, voies ferrées, aéroports), zones industrielles et commerciales, cimetières paysagers;Nombreuses plantes, dont conifères;Arceuthobium;Examen visuel;;1AREG
+JEVI;Infrastructures (routes, voies ferrées, aéroports), zones industrielles et commerciales, cimetières paysagers;Nombreux arbres et arbustes;Scolytidae;Examen visuel;;1SCOLF
+JEVI;Infrastructures (routes, voies ferrées, aéroports), zones industrielles et commerciales, cimetières paysagers;Noyer noir d’Amérique;Geosmithia morbida;Examen visuel;;GEOHMO
+JEVI;Infrastructures (routes, voies ferrées, aéroports), zones industrielles et commerciales, cimetières paysagers;Orme;Stegophora ulmea;Examen visuel;;GNOMUL
+JEVI;Infrastructures (routes, voies ferrées, aéroports), zones industrielles et commerciales, cimetières paysagers;Pelargonium, Hydrangea, Gladiolus, Prunus, Rubus;Tomato ringspot virus;Examen visuel;;TORSV0
+JEVI;Infrastructures (routes, voies ferrées, aéroports), zones industrielles et commerciales, cimetières paysagers;Petunia, Solanum;Liriomyza sativae;Examen visuel;;LIRISA
+JEVI;Infrastructures (routes, voies ferrées, aéroports), zones industrielles et commerciales, cimetières paysagers;Peuplier;Sphaerulina musiva;Examen visuel;;MYCOPP
+JEVI;Infrastructures (routes, voies ferrées, aéroports), zones industrielles et commerciales, cimetières paysagers;Peuplier, Prunus d’ornement, platane ;Choristoneura;Examen visuel;;1CHONG
+JEVI;Infrastructures (routes, voies ferrées, aéroports), zones industrielles et commerciales, cimetières paysagers;Pin;Bursaphelenchus xylophilus;Examen visuel;;BURSXY
+JEVI;Infrastructures (routes, voies ferrées, aéroports), zones industrielles et commerciales, cimetières paysagers;Pin;Dendrolimus sibiricus;Examen visuel;;DENDSI
+JEVI;Infrastructures (routes, voies ferrées, aéroports), zones industrielles et commerciales, cimetières paysagers;Pin;Atropellis;Examen visuel;;1ATRPG
+JEVI;Infrastructures (routes, voies ferrées, aéroports), zones industrielles et commerciales, cimetières paysagers;Pin;Cronartium;Examen visuel;;1CRONG
+JEVI;Infrastructures (routes, voies ferrées, aéroports), zones industrielles et commerciales, cimetières paysagers;Pin;Fusarium circinatum;Examen visuel;;GIBBCI
+JEVI;Infrastructures (routes, voies ferrées, aéroports), zones industrielles et commerciales, cimetières paysagers;Pin;Pseudocercospora pini-densiflorae;Examen visuel;;CERSPD
+JEVI;Infrastructures (routes, voies ferrées, aéroports), zones industrielles et commerciales, cimetières paysagers;Pin;Pissodes spp.;Examen visuel;;1PISOG
+JEVI;Infrastructures (routes, voies ferrées, aéroports), zones industrielles et commerciales, cimetières paysagers;Pin et autres conifères;Monochamus;Examen visuel;;1MONCG
+JEVI;Infrastructures (routes, voies ferrées, aéroports), zones industrielles et commerciales, cimetières paysagers;Plantes florales herbacées;Spodoptera eridania;Examen visuel;;PRODER
+JEVI;Infrastructures (routes, voies ferrées, aéroports), zones industrielles et commerciales, cimetières paysagers;Platane ;Ceratocystis platani;Examen visuel;;CERAFP
+JEVI;Infrastructures (routes, voies ferrées, aéroports), zones industrielles et commerciales, cimetières paysagers;Polygala myrtifolia, Euryops chrysanthemoides, ciste, lavande, romarin...;Cicadellidae;Examen visuel;;1CICDF
+JEVI;Infrastructures (routes, voies ferrées, aéroports), zones industrielles et commerciales, cimetières paysagers;Polygale à feuilles de myrte, ciste, laurier-rose, lavande, mimosa, olivier, myrte, Prunus spp., romarin, vigne…;Xylella fastidiosa;Examen visuel;;XYLEFA
+JEVI;Infrastructures (routes, voies ferrées, aéroports), zones industrielles et commerciales, cimetières paysagers;Pommier;Rhagoletis pomonella;Examen visuel;;RHAGPO
+JEVI;Infrastructures (routes, voies ferrées, aéroports), zones industrielles et commerciales, cimetières paysagers;Prunus;Aromia bungii;Examen visuel;;AROMBU
+JEVI;Infrastructures (routes, voies ferrées, aéroports), zones industrielles et commerciales, cimetières paysagers;Prunus;Saperda candida;Examen visuel;;SAPECN
+JEVI;Infrastructures (routes, voies ferrées, aéroports), zones industrielles et commerciales, cimetières paysagers;Prunus;Gymnosporangium;Examen visuel;;1GYMNG
+JEVI;Infrastructures (routes, voies ferrées, aéroports), zones industrielles et commerciales, cimetières paysagers;Prunus;Phyllosticta solitaria;Examen visuel;;PHYSSL
+JEVI;Infrastructures (routes, voies ferrées, aéroports), zones industrielles et commerciales, cimetières paysagers;Prunus;Plum pox virus;Examen visuel;;FALSE
+JEVI;Infrastructures (routes, voies ferrées, aéroports), zones industrielles et commerciales, cimetières paysagers;Prunus, tilleul, rosier;Lopholeucaspis japonica;Examen visuel;;LOPLJA
+JEVI;Infrastructures (routes, voies ferrées, aéroports), zones industrielles et commerciales, cimetières paysagers;Rosier;Rose rosette virus;Examen visuel;;RRV000
+JEVI;Infrastructures (routes, voies ferrées, aéroports), zones industrielles et commerciales, cimetières paysagers;Tsuga;Melampsora farlowii;Examen visuel;;MELMFA
+JEVI;Jardins et conservatoires botaniques (dont serres de plantes de collection);Acer, Aesculus, Betula, Castanea, Juglans, Malus, Platanus, Populus, Prunus, Rosa, Rubus, Salix, Tilia, Ulmus, Vitis, gazons de graminées;Popillia japonica;Examen visuel;;POPIJA
+JEVI;Jardins et conservatoires botaniques (dont serres de plantes de collection);Agrumes;Anastrepha ludens;Examen visuel;;ANSTLU
+JEVI;Jardins et conservatoires botaniques (dont serres de plantes de collection);Agrumes;Liberibacter spp.;Examen visuel;;1LIBEG
+JEVI;Jardins et conservatoires botaniques (dont serres de plantes de collection);Agrumes;Phyllosticta citricarpa;Examen visuel;;GUIGCI
+JEVI;Jardins et conservatoires botaniques (dont serres de plantes de collection);Agrumes;Thaumatotibia leucotreta;Examen visuel;;ARGPLE
+JEVI;Jardins et conservatoires botaniques (dont serres de plantes de collection);Agrumes;Acleris;Examen visuel;;1ACLRG
+JEVI;Jardins et conservatoires botaniques (dont serres de plantes de collection);Agrumes;Aleurocanthus citriperdus;Examen visuel;;ALECCT
+JEVI;Jardins et conservatoires botaniques (dont serres de plantes de collection);Agrumes;Aleurocanthus spiniferus;Examen visuel;;ALECSN
+JEVI;Jardins et conservatoires botaniques (dont serres de plantes de collection);Agrumes;Aleurocanthus woglumi;Examen visuel;;ALECWO
+JEVI;Jardins et conservatoires botaniques (dont serres de plantes de collection);Agrumes;Citrus tristeza virus;Examen visuel;;CTV000
+JEVI;Jardins et conservatoires botaniques (dont serres de plantes de collection);Agrumes;Diaphorina citri;Examen visuel;;DIAACI
+JEVI;Jardins et conservatoires botaniques (dont serres de plantes de collection);Agrumes;Elsinoë fawcettii;Examen visuel;;ELSIFA
+JEVI;Jardins et conservatoires botaniques (dont serres de plantes de collection);Agrumes;Haplaxius crudus;Examen visuel;;MYNDCR
+JEVI;Jardins et conservatoires botaniques (dont serres de plantes de collection);Agrumes;Pseudocercospora angolensis;Examen visuel;;CERCAN
+JEVI;Jardins et conservatoires botaniques (dont serres de plantes de collection);Agrumes;Satsuma dwarf virus;Examen visuel;;SDV000
+JEVI;Jardins et conservatoires botaniques (dont serres de plantes de collection);Agrumes;Scirtothrips citri;Examen visuel;;SCITCI
+JEVI;Jardins et conservatoires botaniques (dont serres de plantes de collection);Agrumes;Toxoptera citricidus;Examen visuel;;TOXOCI
+JEVI;Jardins et conservatoires botaniques (dont serres de plantes de collection);Agrumes;Trioza erytreae;Examen visuel;;TRIZER
+JEVI;Jardins et conservatoires botaniques (dont serres de plantes de collection);Agrumes;Unaspis citri;Examen visuel;;UNASCI
+JEVI;Jardins et conservatoires botaniques (dont serres de plantes de collection);Agrumes;Xanthomonas citri pv. citri;Examen visuel;;XANTCI
+JEVI;Jardins et conservatoires botaniques (dont serres de plantes de collection);Bananier;Ralstonia syzygii subsp. celebesensis;Examen visuel;;RALSSC
+JEVI;Jardins et conservatoires botaniques (dont serres de plantes de collection);Camélia;Scirtothrips dorsalis;Examen visuel;;SCITDO
+JEVI;Jardins et conservatoires botaniques (dont serres de plantes de collection);Camélia, tabac d’ornement et autres plantes ornementales herbacées;Spodoptera litura;Examen visuel;;PRODLI
+JEVI;Jardins et conservatoires botaniques (dont serres de plantes de collection);Chrysanthème;Chrysanthemum stem necrosis orthotospovirus;Examen visuel;;CSNV00
+JEVI;Jardins et conservatoires botaniques (dont serres de plantes de collection);Chrysanthème;Nemorimyza maculosa;Examen visuel;;AMAZMA
+JEVI;Jardins et conservatoires botaniques (dont serres de plantes de collection);Chrysanthèmes, ipomées, œillets, pélargonium et autres plantes à massif sensibles;Spodoptera frugiperda;Examen visuel;;LAPHFR
+JEVI;Jardins et conservatoires botaniques (dont serres de plantes de collection);Cocotier;Coconut cadang-cadang viroid;Examen visuel;;CCCVD0
+JEVI;Jardins et conservatoires botaniques (dont serres de plantes de collection);Dessous de pots, bâches de culture;Pomacea;Examen visuel;;POMACA
+JEVI;Jardins et conservatoires botaniques (dont serres de plantes de collection);Hibiscus d'intérieur, Pelargonium, palmiers, plantes vertes, grenadier, laurier-rose...;Ripersiella hibisci;Examen visuel;;RHIOHI
+JEVI;Jardins et conservatoires botaniques (dont serres de plantes de collection);Malvacées (hibiscus, lavatère, rose trémière, mauve…);Anthonomus grandis grandis;Examen visuel;;ANTHGR
+JEVI;Jardins et conservatoires botaniques (dont serres de plantes de collection);Palmier dattier;Fusarium oxysporum f. sp. albedinis;Examen visuel;;FUSAAL
+JEVI;Jardins et conservatoires botaniques (dont serres de plantes de collection);Palmiers;Rhynchophorus palmarum;Examen visuel;;RHYCPA
+JEVI;Jardins et conservatoires botaniques (dont serres de plantes de collection);Palmiers;Coconut lethal yellowing phytoplasma;Examen visuel;;PHYP56
+JEVI;Jardins et conservatoires botaniques (dont serres de plantes de collection);Pelargonium, Hydrangea, Gladiolus, Prunus, Rubus;Tomato ringspot virus;Examen visuel;;TORSV0
+JEVI;Jardins et conservatoires botaniques (dont serres de plantes de collection);Petunia, Solanum;Liriomyza sativae;Examen visuel;;LIRISA
+JEVI;Jardins et conservatoires botaniques (dont serres de plantes de collection);Plantes florales herbacées;Spodoptera eridania;Examen visuel;;PRODER
+JEVI;Jardins et conservatoires botaniques (dont serres de plantes de collection);Polygala myrtifolia, Euryops chrysanthemoides, ciste, lavande, romarin...;Cicadellidae;Examen visuel;;1CICDF
+JEVI;Jardins et conservatoires botaniques (dont serres de plantes de collection);Polygale à feuilles de myrte, ciste, laurier-rose, lavande, mimosa, olivier, myrte, Prunus spp., romarin, vigne…;Xylella fastidiosa;Examen visuel;;XYLEFA
+JEVI;Roseraies;Acer, Aesculus, Betula, Castanea, Juglans, Malus, Platanus, Populus, Prunus, Rosa, Rubus, Salix, Tilia, Ulmus, Vitis, gazons de graminées;Popillia japonica;Examen visuel;;POPIJA
+JEVI;Roseraies;Polygala myrtifolia, Euryops chrysanthemoides, ciste, lavande, romarin...;Cicadellidae;Examen visuel;;1CICDF
+JEVI;Roseraies;Polygale à feuilles de myrte, ciste, laurier-rose, lavande, mimosa, olivier, myrte, Prunus spp., romarin, vigne…;Xylella fastidiosa;Examen visuel;;XYLEFA
+JEVI;Roseraies;Prunus, tilleul, rosier;Lopholeucaspis japonica;Examen visuel;;LOPLJA
+JEVI;Roseraies;Rosier;Rose rosette virus;Examen visuel;;RRV000
+Pomme de terre;Pomme de terre;Pomme de terre;Andean potato latent virus;Examen visuel;Général;APLV00
+Pomme de terre;Pomme de terre;Pomme de terre;Andean potato mottle virus;Examen visuel;Général;APMOV0
+Pomme de terre;Pomme de terre;Pomme de terre;Arracacha virus B oca strain;Examen visuel;Général;AVBO00
+Pomme de terre;Pomme de terre;Pomme de terre;Naupactus leucoloma;Examen visuel;Général;GRAGLE
+Pomme de terre;Pomme de terre;Pomme de terre;Potato black ringspot virus;Examen visuel;Général;PBRSV0
+Pomme de terre;Pomme de terre;Pomme de terre;Potato virus A;Examen visuel;Général;PVA000
+Pomme de terre;Pomme de terre;Pomme de terre;Potato virus M;Examen visuel;Général;PVM000
+Pomme de terre;Pomme de terre;Pomme de terre;Potato virus S;Examen visuel;Général;PVS000
+Pomme de terre;Pomme de terre;Pomme de terre;Potato virus T;Examen visuel;Général;PVT000
+Pomme de terre;Pomme de terre;Pomme de terre;Potato virus V;Examen visuel;Général;PVV000
+Pomme de terre;Pomme de terre;Pomme de terre;Potato virus X;Examen visuel;Général;PVX000
+Pomme de terre;Pomme de terre;Pomme de terre;Potato virus Y;Examen visuel;Général;PVY000
+Pomme de terre;Pomme de terre;Pomme de terre;Puccinia pittieriana;Examen visuel;Général;PUCCPT
+Pomme de terre;Pomme de terre;Pomme de terre;Septoria malagutii;Examen visuel;Général;SEPTLM
+Pomme de terre;Pomme de terre;Pomme de terre;Stagonosporopsis andigena;Examen visuel;Général;PHOMAN
+Pomme de terre;Pomme de terre;Pomme de terre;Thecaphora solani;Examen visuel;Général;THPHSO
+Pomme de terre;Pomme de terre;Pomme de terre;Tomato leaf curl New Delhi virus;Examen visuel;Sur organes aériens;TOLCND
+Pomme de terre;Pomme de terre;Pomme de terre;Potato leafroll virus;Examen visuel;Sur plantes;PLRV00
+Pomme de terre;Pomme de terre;Pomme de terre;Epitrix cucumeris;Examen visuel;Sur tubercules à la récolte;EPIXCU
+Pomme de terre;Pomme de terre;Pomme de terre;Epitrix papa;Examen visuel;Sur tubercules à la récolte;EPIXPP
+Pomme de terre;Pomme de terre;Pomme de terre;Epitrix similaris;Examen visuel;Sur tubercules à la récolte;EPIXSI
+Pomme de terre;Pomme de terre;Pomme de terre;Epitrix subcrinita;Examen visuel;Sur tubercules à la récolte;EPIXSU
+Pomme de terre;Pomme de terre;Pomme de terre;Epitrix tuberis;Examen visuel;Sur tubercules à la récolte;EPIXTU
+Pomme de terre;Pomme de terre;Pomme de terre;Premnotrypes;Examen visuel;Sur tubercules à la récolte;1PREMG
+Pomme de terre;Pomme de terre;Pomme de terre;Synchytrium endobioticum;Examen visuel;Sur tubercules à la récolte;SYNCEN
+Pomme de terre;Pomme de terre;Pomme de terre;Tecia solanivora;Examen visuel;Sur tubercules à la récolte;TECASO
+Pomme de terre;Pomme de terre;Pomme de terre;Clavibacter michiganensis subsp. sepedonicus;Examen visuel;Tubercules intro UE;CORBSE
+Pomme de terre;Pomme de terre;Pomme de terre;Meloidogyne chitwoodi;Examen visuel;Tubercules intro UE;MELGCH
+Pomme de terre;Pomme de terre;Pomme de terre;Meloidogyne fallax;Examen visuel;Tubercules intro UE;MELGFA
+Pomme de terre;Pomme de terre;Pomme de terre;Ralstonia solanacearum;Examen visuel;Tubercules intro UE;RALSSL
+Pomme de terre;Pomme de terre;Pomme de terre;Synchytrium endobioticum;Examen visuel;Tubercules intro UE;SYNCEN
+Pomme de terre;Pomme de terre;Pomme de terre;Epitrix cucumeris;Piégeage;Chromatique;EPIXCU
+Pomme de terre;Pomme de terre;Pomme de terre;Epitrix papa;Piégeage;Chromatique;EPIXPP
+Pomme de terre;Pomme de terre;Pomme de terre;Epitrix similaris;Piégeage;Chromatique;EPIXSI
+Pomme de terre;Pomme de terre;Pomme de terre;Epitrix subcrinita;Piégeage;Chromatique;EPIXSU
+Pomme de terre;Pomme de terre;Pomme de terre;Epitrix tuberis;Piégeage;Chromatique;EPIXTU
+Pomme de terre;Pomme de terre;Pomme de terre;Bactericera cockerelli;Piégeage;Chromatique ou filet;PARZCO
+Pomme de terre;Pomme de terre;Pomme de terre;Tecia solanivora;Piégeage;Phéromone;TECASO
+Pomme de terre;Pomme de terre;Pomme de terre;Ralstonia solanacearum;Prélèvement asymptomatique;Eau et boues;RALSSL
+Pomme de terre;Pomme de terre;Pomme de terre;Ralstonia solanacearum;Prélèvement asymptomatique;Morelles;RALSSL
+Pomme de terre;Pomme de terre;Pomme de terre;Globodera pallida;Prélèvement asymptomatique;Terre nématodes avant plantation;HETDPA
+Pomme de terre;Pomme de terre;Pomme de terre;Globodera rostochiensis;Prélèvement asymptomatique;Terre nématodes avant plantation;HETDRO
+Pomme de terre;Pomme de terre;Pomme de terre;Clavibacter michiganensis subsp. sepedonicus;Prélèvement asymptomatique;Tubercules à la récolte;CORBSE
+Pomme de terre;Pomme de terre;Pomme de terre;Meloidogyne chitwoodi;Prélèvement asymptomatique;Tubercules à la récolte;MELGCH
+Pomme de terre;Pomme de terre;Pomme de terre;Meloidogyne fallax;Prélèvement asymptomatique;Tubercules à la récolte;MELGFA
+Pomme de terre;Pomme de terre;Pomme de terre;Ralstonia solanacearum;Prélèvement asymptomatique;Tubercules à la récolte;RALSSL
+Pomme de terre;Pomme de terre;Pomme de terre;Nacobbus aberrans;Prélèvement asymptomatique;Tubercules à la récolte;NACOBA
+Pomme de terre;Pomme de terre;Pomme de terre;Clavibacter michiganensis subsp. sepedonicus;Prélèvement asymptomatique;Tubercules intro UE;CORBSE
+Pomme de terre;Pomme de terre;Pomme de terre;Globodera pallida;Prélèvement asymptomatique;Tubercules intro UE;HETDPA
+Pomme de terre;Pomme de terre;Pomme de terre;Globodera rostochiensis;Prélèvement asymptomatique;Tubercules intro UE;HETDRO
+Pomme de terre;Pomme de terre;Pomme de terre;Meloidogyne chitwoodi;Prélèvement asymptomatique;Tubercules intro UE;MELGCH
+Pomme de terre;Pomme de terre;Pomme de terre;Meloidogyne fallax;Prélèvement asymptomatique;Tubercules intro UE;MELGFA
+Pomme de terre;Pomme de terre;Pomme de terre;Ralstonia solanacearum;Prélèvement asymptomatique;Tubercules intro UE;RALSSL
+Pomme de terre;Pomme de terre;Pomme de terre;Synchytrium endobioticum;Prélèvement asymptomatique;Tubercules intro UE;SYNCEN
+Vigne;Vigne de production;Vigne;Cicadellidae;Examen visuel;Sur feuilles;1CICDF
+Vigne;Vigne de production;Vigne;Margarodes;Examen visuel;Sur feuilles et rameaux;1MARGG
+Vigne;Vigne de production;Vigne;Tobacco ringspot virus;Examen visuel;Sur feuilles et rameaux;TRSV00
+Vigne;Vigne de production;Vigne;Tomato ringspot virus;Examen visuel;Sur feuilles et rameaux;TORSV0
+Vigne;Vigne de production;Vigne;Grapevine flavescence dorée phytoplasma;Examen visuel;Sur feuilles, rameaux et fruits;PHYP64
+Vigne;Vigne de production;Vigne;Popillia japonica;Examen visuel;Sur feuilles, rameaux et fruits;POPIJA
+Vigne;Vigne de production;Vigne;Xylella fastidiosa;Examen visuel;Sur feuilles, rameaux et fruits;XYLEFA
+Vigne;Vigne de production;Vigne;Popillia japonica;Piégeage;Alimentaire + Attractifs sexuels;POPIJA
+Vigne;Vigne de production;Vigne;Scaphoideus titanus;Piégeage;Chromatique ou aspiration;SCAPLU
+Vigne;Vigne de production;Vigne;Cicadellidae;Piégeage;chromatique ou piège Barber ou filet fauchoir;1CICDF
+Vigne;Vigne de production;Vigne;Xylella fastidiosa;Prélèvement asymptomatique;Feuilles avec pétioles;XYLEFA
