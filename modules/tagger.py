@@ -297,3 +297,154 @@ def conjunctions_to_df(conjunctions,fcu_labels, fcu_lemmatised_labels, fcu_paren
     df = df[df['proposal_lemma'].str.len() > 2] # keep rows that have at least one proposal
     df = df.assign(proposal_lemma=df['proposal_lemma'].str.split(',\n')).explode('proposal_lemma')
     return df
+
+def correct_proposals(df):
+    
+    adj_endings=pd.read_csv("ressources/adj_endings.csv", sep=";", header=0)
+    adj_dict = adj_endings.set_index('Plural')['Singular'].to_dict()
+    #print(adj_dict)
+    
+    proposals_lemma=df["proposal_lemma"].tolist()
+    feats=df["conj_feats"].tolist()
+    parents=df["conj_parent"].tolist()
+    lemmas=df["conj_lemma"].tolist()
+    upos=df["conj_upos"].tolist()
+
+    proposals_ok = {}
+
+    #print(len(proposals_lemma))
+    #proposals_lemma = [p.replace("\n","") for p in proposals_lemma]
+    for i,line in enumerate(proposals_lemma):
+        #line = line.replace("radi", "radis")
+        #print()
+        #print(i, line, )
+        #print("Lemma: ",lemmas[i])
+        temp_lemma = lemmas[i].split(",\n")
+        temp_feats=feats[i].split(",\n")
+        temp_upos=upos[i].split(",\n")
+        temp_parents=parents[i].split(",\n")
+        idx = temp_lemma.index(line)
+        if line in temp_lemma:
+            if temp_upos[idx] =="NOUN":
+                proposals_ok.setdefault(i, line)
+            elif temp_upos[idx] =="NOUN NOUN":
+                proposals_ok.setdefault(i, line)
+            elif temp_upos[idx] == "NOUN ADJ":
+                if temp_feats[idx].split()[1] == "Gender=Masc|Number=Sing":
+                    line = line.replace("radi", 'radis')                
+                    proposals_ok.setdefault(i, line)
+                elif temp_feats[idx].split()[1] == "Gender=Masc|Number=Plur":
+                    line = line.replace("radi", 'radis')
+                    proposals_ok.setdefault(i, line)
+                elif temp_feats[idx].split()[1] == "Gender=Fem|Number=Sing":               
+                    change = line.split()[0]+ " "+temp_parents[idx].split()[1]
+                    proposals_ok.setdefault(i, change)
+                elif temp_feats[idx].split()[1] == "Gender=Fem|Number=Plur":
+                    for k,v in adj_dict.items():
+                        if temp_parents[idx].endswith(k):
+                            end_idx = temp_parents[idx].split()[1].rfind(k)
+                            len_idx = len(temp_parents[idx].split()[1])-1
+                            change = line.split()[0]+ " "+temp_parents[idx].split()[1][:end_idx]+v
+                            proposals_ok.setdefault(i, change)
+            elif temp_upos[idx] == "ADJ NOUN":
+                if temp_feats[idx].split()[0] == "Gender=Masc|Number=Sing":
+                    line = line.replace("radi", 'radis')                
+                    proposals_ok.setdefault(i, line)
+                elif temp_feats[idx].split()[0] == "Gender=Masc|Number=Plur":
+                    line = line.replace("radi", 'radis')
+                    proposals_ok.setdefault(i, line)
+                elif temp_feats[idx].split()[0] == "Gender=Fem|Number=Sing":
+                    change = temp_parents[idx].split()[0] + " "+line.split()[1]
+                    proposals_ok.setdefault(i, change)
+                elif temp_feats[idx].split()[0] == "Gender=Fem|Number=Plur":
+                    for k,v in adj_dict.items():
+                        if temp_parents[idx].endswith(k):
+                            end_idx = temp_parents[idx].split()[0].rfind(k)
+                            len_idx = len(temp_parents[idx].split()[0])-1
+                            change = temp_parents[idx].split()[0][:end_idx]+v+ " "+ line.split()[1]
+                            proposals_ok.setdefault(i, change)
+            elif temp_upos[idx]== "NOUN ADP NOUN" or temp_upos[idx]== "NOUN ADP PROPN":
+                if temp_parents[idx].split()[1] == "à":
+                    proposals_ok.setdefault(i, line)
+                elif temp_parents[idx].split()[1] == "de":
+                    proposals_ok.setdefault(i, line)
+                else:
+                    change = line.split()[0] + " "+temp_parents[idx].split()[1] + line.split()[2]
+                    proposals_ok.setdefault(i, change)
+            elif temp_upos[idx]=="NOUN ADP DET NOUN" or temp_upos[idx]=="NOUN ADP DET PROPN":
+                if temp_parents[idx].split()[1]=="du" and temp_parents[idx].split()[2] == "du":
+                    change = line.split()[0] + " " + "du" + " " + line.split()[3]
+                    proposals_ok.setdefault(i, change)
+                elif temp_parents[idx].split()[1]=="de" and temp_parents[idx].split()[2] == "la":
+                    change = line.split()[0] + " " + "de la" + " " + line.split()[3]
+                    proposals_ok.setdefault(i, change)
+                    #print(change)
+            elif  temp_upos[idx]== "NOUN ADJ ADP NOUN" or temp_upos[idx]== "NOUN ADJ ADP PROPN" :
+                prep = temp_parents[idx].split()[2]
+                if prep == "à":
+                    prep=prep
+                    if temp_feats[idx].split()[1] == "Gender=Masc|Number=Sing":
+                        change = line.split()[0] + " "+ line.split()[1] + " "+prep +" "+ line.split()[3]
+                        proposals_ok.setdefault(i, change)
+                    elif temp_feats[idx].split()[1] == "Gender=Masc|Number=Plur":
+                        change = line.split()[0] + " "+ line.split()[1] + " "+prep +" "+ line.split()[3]
+                        proposals_ok.setdefault(i, change)
+                    elif temp_feats[idx].split()[1] == "Gender=Fem|Number=Sing":
+                        change = line.split()[0] + " "+temp_parents[idx].split()[1] + " "+prep +" "+ line.split()[3]
+                        proposals_ok.setdefault(i, change)
+                    elif temp_feats[idx].split()[1] == "Gender=Fem|Number=Plur":
+                        for k,v in adj_dict.items():
+                            if temp_parents[idx].endswith(k):
+                                end_idx = temp_parents[idx].split()[1].rfind(k)
+                                len_idx = len(temp_parents[idx].split()[1])-1
+                                change = line.split()[0]+ " "+temp_parents[idx].split()[1][:end_idx]+v + " "+prep +" "+ line.split()[3]
+                                proposals_ok.setdefault(i, change)
+                elif prep == "de":
+                    prep=prep
+                    if temp_feats[idx].split()[1] == "Gender=Masc|Number=Sing":
+                        change = line.split()[0] + " "+ line.split()[1] + " "+prep +" "+ line.split()[3]
+                        proposals_ok.setdefault(i, change)
+                    elif temp_feats[idx].split()[1] == "Gender=Masc|Number=Plur":
+                        change = line.split()[0] + " "+ line.split()[1] + " "+prep +" "+ line.split()[3]
+                        proposals_ok.setdefault(i, change)
+                    elif temp_feats[idx].split()[1] == "Gender=Fem|Number=Sing":
+                        change = line.split()[0] + " "+temp_parents[idx].split()[1] + " "+prep +" "+ line.split()[3]
+                        proposals_ok.setdefault(i, change)
+                    elif temp_feats[idx].split()[1] == "Gender=Fem|Number=Plur":
+                        for k,v in adj_dict.items():
+                            if temp_parents[idx].endswith(k):
+                                end_idx = temp_parents[idx].split()[1].rfind(k)
+                                len_idx = len(temp_parents[idx].split()[1])-1
+                                change = line.split()[0]+ " "+temp_parents[idx].split()[1][:end_idx]+v + " "+prep +" "+ line.split()[3]
+                                proposals_ok.setdefault(i, change)
+                elif prep == "d'":
+                    #print(prep)
+                    if temp_feats[idx].split()[1] == "Gender=Masc|Number=Sing":
+                        change = line.split()[0] + " "+ line.split()[1] + " "+prep + line.split()[3]
+                        proposals_ok.setdefault(i, change)
+                    elif temp_feats[idx].split()[1] == "Gender=Masc|Number=Plur":
+                        change = line.split()[0] + " "+ line.split()[1] + " "+prep + line.split()[3]
+                        proposals_ok.setdefault(i, change)
+                    elif temp_feats[idx].split()[1] == "Gender=Fem|Number=Sing":
+                        change = line.split()[0] + " "+temp_parents[idx].split()[1] + " "+prep + line.split()[3]
+                        proposals_ok.setdefault(i, change)
+                    elif temp_feats[idx].split()[1] == "Gender=Fem|Number=Plur":
+                        for k,v in adj_dict.items():
+                            if temp_parents[idx].endswith(k):
+                                end_idx = temp_parents[idx].split()[1].rfind(k)
+                                len_idx = len(temp_parents[idx].split()[1])-1
+                                change = line.split()[0]+ " "+temp_parents[idx].split()[1][:end_idx]+v + " "+prep + line.split()[3]
+                                proposals_ok.setdefault(i, change)
+                    
+            else:
+                proposals_ok.setdefault(i, line)
+                
+                    
+    proposals_final = list(proposals_ok.values())
+    #print(len(proposals_final))
+    df["proposal"] = proposals_final
+    
+    return df
+
+
+

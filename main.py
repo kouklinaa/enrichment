@@ -65,21 +65,22 @@ print("######################\n")
 
 
 
-bsv = correct_corpus(load_corpus(corpus = "http://ontology.inrae.fr/bsv/html/Corpus/")) # load bulletins from html pages, and make some modifications
+bsv = correct_corpus(load_corpus(corpus = "http://ontology.inrae.fr/bsv/html/Corpus/")) # load bulletins from html pages, and make some modifications (encoding, etc.)
 print("\nURL: {} ".format("".join(list(bsv.keys())[1])))
 print("\nText: {} ".format(list(bsv.values())[1]))
 
 
 #%%
-
 print("\n######################")
 print("Find conjunctions")
 print("######################\n")
 
 
-conjunctions, bsv_lemmatized = find_conjunctions(bsv, filters, wine_bioagressors, ppdo_labels, ncbi_labels)
-#print(conjunctions)
-df = conjunctions_to_df(conjunctions, fcu_labels, fcu_lemmatised_labels, fcu_parents, fcu_parents_of_children)
+conjunctions, bsv_lemmatized = find_conjunctions(bsv, filters, wine_bioagressors, ppdo_labels, ncbi_labels) # extract conjunctions
+df = conjunctions_to_df(conjunctions, fcu_labels, fcu_lemmatised_labels, fcu_parents, fcu_parents_of_children) # get a dataframe of extracted conjunctions
+df = correct_proposals(df) # modify token forms if they are not grammatically correct
+print(df[:10])
+
 
 #%%
 print("\n######################")
@@ -90,3 +91,5 @@ try:
     print("Done !")
 except:
     print("Something went wrong ...")
+
+

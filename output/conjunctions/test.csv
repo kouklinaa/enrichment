@@ -1,4 +1,4 @@
-	bsv	context	conj_id	conj_upos	conj_feats	conj_parent	conj_token	conj_lemma	fcu_match	skos:broader	proposal_lemma
+	bsv	context	conj_id	conj_upos	conj_feats	conj_parent	conj_token	conj_lemma	fcu_match	skos:broader	proposal_lemma	proposal
 2	http://ontology.inrae.fr/bsv/html/Corpus/Alea/html/01_TB_Als_cle8c6253.html	"La surveillance est de mise
 Pour limiter l'arrivée des limaces sur les plateaux il est possible d'éparpiller de la paille, du miscanthus broyé ou des cendres autour des bacs
 Pensez aussi à nettoyer les abords des serres"	"18,
@@ -7,7 +7,7 @@ NOUN"	"Gender=Fem|Number=Sing,
 Gender=Fem|Number=Plur"	"paille,
 cendres"	"paille,
 cendres"	"paille,
-cendre"	paille=http://ontology.inrae.fr/frenchcropusage/Cereales_paille	céréale=http://ontology.inrae.fr/frenchcropusage/Cereales	cendre
+cendre"	paille=http://ontology.inrae.fr/frenchcropusage/Cereales_paille	céréale=http://ontology.inrae.fr/frenchcropusage/Cereales	cendre	cendre
 8	http://ontology.inrae.fr/bsv/html/Corpus/Alea/html/05bsv_jevi_20190502_cle8f22b6.html	"Région Erdre et Gesvres, Pays d'Ancenis, Haut-Anjou (49), secteur lavallois et Pays de Sainte Hermine
 Espaces verts, parc et jardins d'amateurs
 Hormis un jardin (pays d'Ancenis), les sites du réseau ne présentent que très peu de chenilles"	"1,
@@ -25,7 +25,7 @@ parc,
 jardin"	"parc=http://ontology.inrae.fr/frenchcropusage/Zones_non_agricoles,
 jardin=http://ontology.inrae.fr/frenchcropusage/Zones_non_agricoles,
 jardin=http://ontology.inrae.fr/frenchcropusage/Jardins"	"zone non agricole=http://ontology.inrae.fr/frenchcropusage/Zones_non_agricoles,
-usages des plantes cultivées=http://ontology.inrae.fr/frenchcropusage/Usages_plantes_cultivees"	espace
+usages des plantes cultivées=http://ontology.inrae.fr/frenchcropusage/Usages_plantes_cultivees"	espace	espace
 10	http://ontology.inrae.fr/bsv/html/Corpus/Alea/html/05bsv_jevi_20190502_cle8f22b6.html	"Retrouvez les informations en page 2 du BSV JEVI n°3 du 28 mars 2019
 Secteur Erdre et Gesvres et région lavalloise, jardins d'amateurs
 Depuis le dernier BSV JEVI, les jardiniers du site en Loire-Atlantique constatent toujours la présence de criocère, à tous les stades"	"1,
@@ -41,7 +41,7 @@ région,
 jardins"	"secteur,
 région,
 jardin"	"jardin=http://ontology.inrae.fr/frenchcropusage/Zones_non_agricoles,
-jardin=http://ontology.inrae.fr/frenchcropusage/Jardins"	zone non agricole=http://ontology.inrae.fr/frenchcropusage/Zones_non_agricoles	secteur
+jardin=http://ontology.inrae.fr/frenchcropusage/Jardins"	zone non agricole=http://ontology.inrae.fr/frenchcropusage/Zones_non_agricoles	secteur	secteur
 10	http://ontology.inrae.fr/bsv/html/Corpus/Alea/html/05bsv_jevi_20190502_cle8f22b6.html	"Retrouvez les informations en page 2 du BSV JEVI n°3 du 28 mars 2019
 Secteur Erdre et Gesvres et région lavalloise, jardins d'amateurs
 Depuis le dernier BSV JEVI, les jardiniers du site en Loire-Atlantique constatent toujours la présence de criocère, à tous les stades"	"1,
@@ -57,7 +57,7 @@ région,
 jardins"	"secteur,
 région,
 jardin"	"jardin=http://ontology.inrae.fr/frenchcropusage/Zones_non_agricoles,
-jardin=http://ontology.inrae.fr/frenchcropusage/Jardins"	zone non agricole=http://ontology.inrae.fr/frenchcropusage/Zones_non_agricoles	région
+jardin=http://ontology.inrae.fr/frenchcropusage/Jardins"	zone non agricole=http://ontology.inrae.fr/frenchcropusage/Zones_non_agricoles	région	région
 12	http://ontology.inrae.fr/bsv/html/Corpus/Alea/html/05bsv_jevi_20190502_cle8f22b6.html	"BSV JEVI N°05 DU 2 MAI 2019
 Corniche angevine, Anjou bleu, secteur lavallois et cur du bocage vendéen, jardins d'amateurs
 Les premiers crachats de coucou liés à la présence de Philaenus spumarius sont actuellement visibles"	"1,
@@ -79,7 +79,7 @@ jardins"	"corniche,
 secteur,
 cur,
 jardin"	"jardin=http://ontology.inrae.fr/frenchcropusage/Zones_non_agricoles,
-jardin=http://ontology.inrae.fr/frenchcropusage/Jardins"	zone non agricole=http://ontology.inrae.fr/frenchcropusage/Zones_non_agricoles	corniche
+jardin=http://ontology.inrae.fr/frenchcropusage/Jardins"	zone non agricole=http://ontology.inrae.fr/frenchcropusage/Zones_non_agricoles	corniche	corniche
 12	http://ontology.inrae.fr/bsv/html/Corpus/Alea/html/05bsv_jevi_20190502_cle8f22b6.html	"BSV JEVI N°05 DU 2 MAI 2019
 Corniche angevine, Anjou bleu, secteur lavallois et cur du bocage vendéen, jardins d'amateurs
 Les premiers crachats de coucou liés à la présence de Philaenus spumarius sont actuellement visibles"	"1,
@@ -101,7 +101,7 @@ jardins"	"corniche,
 secteur,
 cur,
 jardin"	"jardin=http://ontology.inrae.fr/frenchcropusage/Zones_non_agricoles,
-jardin=http://ontology.inrae.fr/frenchcropusage/Jardins"	zone non agricole=http://ontology.inrae.fr/frenchcropusage/Zones_non_agricoles	secteur
+jardin=http://ontology.inrae.fr/frenchcropusage/Jardins"	zone non agricole=http://ontology.inrae.fr/frenchcropusage/Zones_non_agricoles	secteur	secteur
 12	http://ontology.inrae.fr/bsv/html/Corpus/Alea/html/05bsv_jevi_20190502_cle8f22b6.html	"BSV JEVI N°05 DU 2 MAI 2019
 Corniche angevine, Anjou bleu, secteur lavallois et cur du bocage vendéen, jardins d'amateurs
 Les premiers crachats de coucou liés à la présence de Philaenus spumarius sont actuellement visibles"	"1,
@@ -123,7 +123,7 @@ jardins"	"corniche,
 secteur,
 cur,
 jardin"	"jardin=http://ontology.inrae.fr/frenchcropusage/Zones_non_agricoles,
-jardin=http://ontology.inrae.fr/frenchcropusage/Jardins"	zone non agricole=http://ontology.inrae.fr/frenchcropusage/Zones_non_agricoles	cur
+jardin=http://ontology.inrae.fr/frenchcropusage/Jardins"	zone non agricole=http://ontology.inrae.fr/frenchcropusage/Zones_non_agricoles	cur	cur
 26	http://ontology.inrae.fr/bsv/html/Corpus/Alea/html/05bsv_jevi_20190502_cle8f22b6.html	"BSV JEVI N°05 DU 2 MAI 2019
 Région Erdre et Gesvres, Haut-Anjou (49) et cur du bocage vendéen, potagers de particulier
 Les jardiniers du site 44 indiquent la présence d'altises en nombre, fragilisant ainsi les jeunes plants de chou"	"1,
@@ -138,7 +138,7 @@ potagers"	"région,
 cur,
 potagers"	"région,
 cur,
-potager"	potager=http://ontology.inrae.fr/frenchcropusage/Cultures_jardins_familiaux	culture légumière=http://ontology.inrae.fr/frenchcropusage/Cultures_legumieres	région
+potager"	potager=http://ontology.inrae.fr/frenchcropusage/Cultures_jardins_familiaux	culture légumière=http://ontology.inrae.fr/frenchcropusage/Cultures_legumieres	région	région
 26	http://ontology.inrae.fr/bsv/html/Corpus/Alea/html/05bsv_jevi_20190502_cle8f22b6.html	"BSV JEVI N°05 DU 2 MAI 2019
 Région Erdre et Gesvres, Haut-Anjou (49) et cur du bocage vendéen, potagers de particulier
 Les jardiniers du site 44 indiquent la présence d'altises en nombre, fragilisant ainsi les jeunes plants de chou"	"1,
@@ -153,7 +153,7 @@ potagers"	"région,
 cur,
 potagers"	"région,
 cur,
-potager"	potager=http://ontology.inrae.fr/frenchcropusage/Cultures_jardins_familiaux	culture légumière=http://ontology.inrae.fr/frenchcropusage/Cultures_legumieres	cur
+potager"	potager=http://ontology.inrae.fr/frenchcropusage/Cultures_jardins_familiaux	culture légumière=http://ontology.inrae.fr/frenchcropusage/Cultures_legumieres	cur	cur
 27	http://ontology.inrae.fr/bsv/html/Corpus/Alea/html/05bsv_jevi_20190502_cle8f22b6.html	"Un arrosage des cultures peut également aider à maintenir des conditions défavorables
 Dans le Haut-Anjou, il a été constaté d'importantes défoliations de jeunes plants de choux repiqués (choux-raves, choux cabus, choux de Bruxelles) par des pigeons
 Environ 90 % des choux ont été ravagés"	"19,
@@ -171,7 +171,7 @@ chou,
 chou"	"chou=http://ontology.inrae.fr/frenchcropusage/Choux,
 chou=http://ontology.inrae.fr/frenchcropusage/Choux_potagers,
 chou=http://ontology.inrae.fr/frenchcropusage/Choux,
-chou=http://ontology.inrae.fr/frenchcropusage/Choux_potagers"	chou=http://ontology.inrae.fr/frenchcropusage/Choux_potagers	choux-rave
+chou=http://ontology.inrae.fr/frenchcropusage/Choux_potagers"	chou=http://ontology.inrae.fr/frenchcropusage/Choux_potagers	choux-rave	choux-rave
 31	http://ontology.inrae.fr/bsv/html/Corpus/Alea/html/05bsv_jevi_20190502_cle8f22b6.html	"Actuellement, tout traitement est inutile sur les parcelles du réseau d'épidémiosurveillance JEVI
 Vallée de la Loire (49), potager d'amateurs
 L'observateur de ce site nous fait part d'un taux de colonisation de 50 % de ses plants d'épinard (stade 3 feuilles) par une petite larve responsable de mines sur feuilles ; probablement la mouche (mineuse) de la betterave, appelée également pégomyie, Pegomyia betae"	"1,
@@ -180,7 +180,7 @@ NOUN"	"Gender=Fem|Number=Sing,
 Gender=Masc|Number=Sing"	"vallée,
 potager"	"vallée,
 potager"	"vallée,
-potager"	potager=http://ontology.inrae.fr/frenchcropusage/Cultures_jardins_familiaux	culture légumière=http://ontology.inrae.fr/frenchcropusage/Cultures_legumieres	vallée
+potager"	potager=http://ontology.inrae.fr/frenchcropusage/Cultures_jardins_familiaux	culture légumière=http://ontology.inrae.fr/frenchcropusage/Cultures_legumieres	vallée	vallée
 32	http://ontology.inrae.fr/bsv/html/Corpus/Alea/html/05bsv_jevi_20190502_cle8f22b6.html	"L'observateur de ce site nous fait part d'un taux de colonisation de 50 % de ses plants d'épinard (stade 3 feuilles) par une petite larve responsable de mines sur feuilles ; probablement la mouche (mineuse) de la betterave, appelée également pégomyie, Pegomyia betae
 Cet insecte diptère est inféodé aux végétaux de la famille des Chénopodiacées, cultivées ou adventices du potager (betterave, chénopode, épinard, poirée ou bette à cardes...)
 La suppression manuelle, certes longue et contraignante, va permettre de réguler efficacement le ravageur"	"23,
@@ -212,7 +212,7 @@ bette"	"betterave=http://ontology.inrae.fr/frenchcropusage/Betteraves,
 poirée=http://ontology.inrae.fr/frenchcropusage/Poirees,
 bette=http://ontology.inrae.fr/frenchcropusage/Poirees"	"multi usages(->légume racine=http://ontology.inrae.fr/frenchcropusage/Legumes_racines, choux, racines et tubercules fourragers=http://ontology.inrae.fr/frenchcropusage/Choux_racines_tubercules_fourragers, betterave=http://ontology.inrae.fr/frenchcropusage/Betteraves, culture industrielle=http://ontology.inrae.fr/frenchcropusage/Cultures_industrielles),
 légume tige=http://ontology.inrae.fr/frenchcropusage/Legumes_tiges,
-légume à feuilles=http://ontology.inrae.fr/frenchcropusage/Legumes_feuilles"	chénopode
+légume à feuilles=http://ontology.inrae.fr/frenchcropusage/Legumes_feuilles"	chénopode	chénopode
 33	http://ontology.inrae.fr/bsv/html/Corpus/Alea/html/05bsv_jevi_20190502_cle8f22b6.html	"BSV JEVI N°05 DU 2 MAI 2019
 Région d'Angers et vallée de la Loire (49), potager d'amateurs et jardin associatif
 Un des jardiniers indique avoir perdu l'intégralité de ses jeunes laitues, en lien avec la présence très nombreuse de larves d'hépiale"	"1,
@@ -236,7 +236,7 @@ potager,
 jardin"	"potager=http://ontology.inrae.fr/frenchcropusage/Cultures_jardins_familiaux,
 jardin=http://ontology.inrae.fr/frenchcropusage/Zones_non_agricoles,
 jardin=http://ontology.inrae.fr/frenchcropusage/Jardins"	"culture légumière=http://ontology.inrae.fr/frenchcropusage/Cultures_legumieres,
-zone non agricole=http://ontology.inrae.fr/frenchcropusage/Zones_non_agricoles"	région
+zone non agricole=http://ontology.inrae.fr/frenchcropusage/Zones_non_agricoles"	région	région
 33	http://ontology.inrae.fr/bsv/html/Corpus/Alea/html/05bsv_jevi_20190502_cle8f22b6.html	"BSV JEVI N°05 DU 2 MAI 2019
 Région d'Angers et vallée de la Loire (49), potager d'amateurs et jardin associatif
 Un des jardiniers indique avoir perdu l'intégralité de ses jeunes laitues, en lien avec la présence très nombreuse de larves d'hépiale"	"1,
@@ -260,7 +260,7 @@ potager,
 jardin"	"potager=http://ontology.inrae.fr/frenchcropusage/Cultures_jardins_familiaux,
 jardin=http://ontology.inrae.fr/frenchcropusage/Zones_non_agricoles,
 jardin=http://ontology.inrae.fr/frenchcropusage/Jardins"	"culture légumière=http://ontology.inrae.fr/frenchcropusage/Cultures_legumieres,
-zone non agricole=http://ontology.inrae.fr/frenchcropusage/Zones_non_agricoles"	vallée
+zone non agricole=http://ontology.inrae.fr/frenchcropusage/Zones_non_agricoles"	vallée	vallée
 37	http://ontology.inrae.fr/bsv/html/Corpus/Alea/html/05bsv_jevi_20190502_cle8f22b6.html	"Des signalements ponctuels de présence de chenilles(Assérac, Prinquiau, La Chapelle sur Erdre) ont été enregistrés par l'antenne départementale POLLENIZ de
 Loire-Atlantique, suite à des appels de particuliers : présence importante de chenilles du Bombyx à livrée, colonisant les structures du jardin concerné(structures de jeux, etc.) ; présence de chenilles Bombyx cul brun dans un jardin et sur le mobilier d'extérieur, ainsi que sur des arbres du terre-plein central de l'axe routier Nantes-Rennes ; présence de chenilles Lithosie quadrille
 Pour rappel, les deux dernières espèces sont urticantes !!!"	"9,
@@ -270,7 +270,7 @@ Gender=Masc|Number=Sing"	"jardin,
 mobilier"	"jardin,
 mobilier"	"jardin,
 mobilier"	"jardin=http://ontology.inrae.fr/frenchcropusage/Zones_non_agricoles,
-jardin=http://ontology.inrae.fr/frenchcropusage/Jardins"	zone non agricole=http://ontology.inrae.fr/frenchcropusage/Zones_non_agricoles	mobilier
+jardin=http://ontology.inrae.fr/frenchcropusage/Jardins"	zone non agricole=http://ontology.inrae.fr/frenchcropusage/Zones_non_agricoles	mobilier	mobilier
 45	http://ontology.inrae.fr/bsv/html/Corpus/Alea/html/05bsv_jevi_20190502_cle8f22b6.html	"Principales plantes hôtes d'intérêt économique présentes en France :
 Arbres fruitiers et vignes : Malus domestica (pommier), Pyrus communis (poirier), Prunus spp. (prunier, cerisier, abricotier, pêcher ), Citrus spp., Diospyros spp. (kaki), Ficus carica (figuier), Vitis vinifera (vigne) Légumes : Phaseolus vulgaris (haricot), Pisum sativum (pois), Asparagus officinalis (asperge), Cucumis sativus (concombre), Capsicum annuum (poivron) Grandes cultures : Zea mais (maïs), Glycine max (soja), Helianthus annuus (tournesol) Plantes et arbustes ornementales : Paulownia , Rosa spp., Hibiscus spp., Nerium oleander (laurier rose), Cupressus sp. (Cyprès), Magnolia sp
 Arbres : Acer spp., Salix spp., Corylus sp. (noisetiers), Fraxinus sp., Platanus occidentalis (platane)"	"1,
@@ -287,7 +287,7 @@ légumes"	"arbre,
 vigne,
 légume"	"vigne=http://ontology.inrae.fr/frenchcropusage/Vignes,
 légume=http://ontology.inrae.fr/frenchcropusage/Cultures_legumieres"	"multi usages(->arboriculture fruitière=http://ontology.inrae.fr/frenchcropusage/Arboriculture_fruitiere, plante médicinale=http://ontology.inrae.fr/frenchcropusage/Plantes_medicinales, arboriculture ornementale=http://ontology.inrae.fr/frenchcropusage/Arboriculture_ornementale, vigne=http://ontology.inrae.fr/frenchcropusage/Vignes),
-culture légumière ou culture de chapignons=http://ontology.inrae.fr/frenchcropusage/Cultures_legumieres_champignons"	arbre
+culture légumière ou culture de chapignons=http://ontology.inrae.fr/frenchcropusage/Cultures_legumieres_champignons"	arbre	arbre
 47	http://ontology.inrae.fr/bsv/html/Corpus/Alea/html/05bsv_jevi_20190502_cle8f22b6.html	"Arbres : Acer spp., Salix spp., Corylus sp. (noisetiers), Fraxinus sp., Platanus occidentalis (platane)
 Les larves de stades 2 à 5 et les adultes se nourrissent en piquant les feuilles, les tiges, les fruits et les semences
 Les dégâts sont provoqués par des piqures de nutrition sur les bourgeons floraux (avortements), sur les jeunes fruits (chutes) et sur les fruits, les gousses ou les graines en provoquant des décolorations, des changement de consistance en surface et des tâches dans la chair"	"16,
@@ -309,7 +309,7 @@ semences"	"feuille,
 tige,
 fruit,
 semence"	"fruit=http://ontology.inrae.fr/frenchcropusage/Cultures_fruitieres,
-semence=http://ontology.inrae.fr/frenchcropusage/Semences"	usages des plantes cultivées=http://ontology.inrae.fr/frenchcropusage/Usages_plantes_cultivees	feuille
+semence=http://ontology.inrae.fr/frenchcropusage/Semences"	usages des plantes cultivées=http://ontology.inrae.fr/frenchcropusage/Usages_plantes_cultivees	feuille	feuille
 47	http://ontology.inrae.fr/bsv/html/Corpus/Alea/html/05bsv_jevi_20190502_cle8f22b6.html	"Arbres : Acer spp., Salix spp., Corylus sp. (noisetiers), Fraxinus sp., Platanus occidentalis (platane)
 Les larves de stades 2 à 5 et les adultes se nourrissent en piquant les feuilles, les tiges, les fruits et les semences
 Les dégâts sont provoqués par des piqures de nutrition sur les bourgeons floraux (avortements), sur les jeunes fruits (chutes) et sur les fruits, les gousses ou les graines en provoquant des décolorations, des changement de consistance en surface et des tâches dans la chair"	"16,
@@ -331,7 +331,7 @@ semences"	"feuille,
 tige,
 fruit,
 semence"	"fruit=http://ontology.inrae.fr/frenchcropusage/Cultures_fruitieres,
-semence=http://ontology.inrae.fr/frenchcropusage/Semences"	usages des plantes cultivées=http://ontology.inrae.fr/frenchcropusage/Usages_plantes_cultivees	tige
+semence=http://ontology.inrae.fr/frenchcropusage/Semences"	usages des plantes cultivées=http://ontology.inrae.fr/frenchcropusage/Usages_plantes_cultivees	tige	tige
 48	http://ontology.inrae.fr/bsv/html/Corpus/Alea/html/05bsv_jevi_20190502_cle8f22b6.html	"Les larves de stades 2 à 5 et les adultes se nourrissent en piquant les feuilles, les tiges, les fruits et les semences
 Les dégâts sont provoqués par des piqures de nutrition sur les bourgeons floraux (avortements), sur les jeunes fruits (chutes) et sur les fruits, les gousses ou les graines en provoquant des décolorations, des changement de consistance en surface et des tâches dans la chair
 DISTRIBUTION GÉ"	"7,
@@ -347,7 +347,7 @@ fruits,
 fruits"	"piqure,
 fruit,
 fruit"	"fruit=http://ontology.inrae.fr/frenchcropusage/Cultures_fruitieres,
-fruit=http://ontology.inrae.fr/frenchcropusage/Cultures_fruitieres"	usages des plantes cultivées=http://ontology.inrae.fr/frenchcropusage/Usages_plantes_cultivees	piqure
+fruit=http://ontology.inrae.fr/frenchcropusage/Cultures_fruitieres"	usages des plantes cultivées=http://ontology.inrae.fr/frenchcropusage/Usages_plantes_cultivees	piqure	piqure
 58	http://ontology.inrae.fr/bsv/html/Corpus/Alea/html/13_HORTI_Als_cle02386b.html	"L'ensemble des pathogènes sont transmis lors de la manipulation des plantes infestées par les machines et les différents outils mais aussi par les mains ou les gants
 Contre les champignons et les bactéries, le lavage fréquent des mains et des gants (eau et savon), suivi d'une désinfection à l'aide d'un antiseptique s'avère efficace
 Pour les vêtements et les chaussures ayant été en contact avec des bactéries, champignons et virus, il convient de les nettoyer et de les sécher en machine à air chaud (ou au soleil), pour inactiver les pathogènes"	"3,
@@ -356,7 +356,7 @@ NOUN"	"Gender=Masc|Number=Plur,
 Gender=Fem|Number=Plur"	"champignons,
 bactéries"	"champignons,
 bactéries"	"champignon,
-bactérie"	champignon=http://ontology.inrae.fr/frenchcropusage/Champignons	culture légumière ou culture de chapignons=http://ontology.inrae.fr/frenchcropusage/Cultures_legumieres_champignons	bactérie
+bactérie"	champignon=http://ontology.inrae.fr/frenchcropusage/Champignons	culture légumière ou culture de chapignons=http://ontology.inrae.fr/frenchcropusage/Cultures_legumieres_champignons	bactérie	bactérie
 62	http://ontology.inrae.fr/bsv/html/Corpus/Alea/html/13_HORTI_Als_cle02386b.html	"Contre les champignons et les bactéries, le lavage fréquent des mains et des gants (eau et savon), suivi d'une désinfection à l'aide d'un antiseptique s'avère efficace
 Pour les vêtements et les chaussures ayant été en contact avec des bactéries, champignons et virus, il convient de les nettoyer et de les sécher en machine à air chaud (ou au soleil), pour inactiver les pathogènes
 Les tapis désinfectants(pédiluves) permettent aussi une protection vis-à-vis des nouvelles cultures"	"13,
@@ -371,7 +371,7 @@ virus"	"bactéries,
 champignons,
 virus"	"bactérie,
 champignon,
-virus"	champignon=http://ontology.inrae.fr/frenchcropusage/Champignons	culture légumière ou culture de chapignons=http://ontology.inrae.fr/frenchcropusage/Cultures_legumieres_champignons	bactérie
+virus"	champignon=http://ontology.inrae.fr/frenchcropusage/Champignons	culture légumière ou culture de chapignons=http://ontology.inrae.fr/frenchcropusage/Cultures_legumieres_champignons	bactérie	bactérie
 62	http://ontology.inrae.fr/bsv/html/Corpus/Alea/html/13_HORTI_Als_cle02386b.html	"Contre les champignons et les bactéries, le lavage fréquent des mains et des gants (eau et savon), suivi d'une désinfection à l'aide d'un antiseptique s'avère efficace
 Pour les vêtements et les chaussures ayant été en contact avec des bactéries, champignons et virus, il convient de les nettoyer et de les sécher en machine à air chaud (ou au soleil), pour inactiver les pathogènes
 Les tapis désinfectants(pédiluves) permettent aussi une protection vis-à-vis des nouvelles cultures"	"13,
@@ -386,7 +386,7 @@ virus"	"bactéries,
 champignons,
 virus"	"bactérie,
 champignon,
-virus"	champignon=http://ontology.inrae.fr/frenchcropusage/Champignons	culture légumière ou culture de chapignons=http://ontology.inrae.fr/frenchcropusage/Cultures_legumieres_champignons	virus
+virus"	champignon=http://ontology.inrae.fr/frenchcropusage/Champignons	culture légumière ou culture de chapignons=http://ontology.inrae.fr/frenchcropusage/Cultures_legumieres_champignons	virus	virus
 63	http://ontology.inrae.fr/bsv/html/Corpus/Alea/html/13_HORTI_Als_cle02386b.html	"Contre les champignons et les bactéries, le lavage fréquent des mains et des gants (eau et savon), suivi d'une désinfection à l'aide d'un antiseptique s'avère efficace
 Pour les vêtements et les chaussures ayant été en contact avec des bactéries, champignons et virus, il convient de les nettoyer et de les sécher en machine à air chaud (ou au soleil), pour inactiver les pathogènes
 Les tapis désinfectants(pédiluves) permettent aussi une protection vis-à-vis des nouvelles cultures"	"29,
@@ -395,7 +395,7 @@ NOUN"	"Gender=Fem|Number=Sing,
 Gender=Masc|Number=Sing"	"machine,
 soleil"	"machine,
 soleil"	"machine,
-soleil"	soleil=http://ontology.inrae.fr/frenchcropusage/Tournesols	multi usages(->oléagineux=http://ontology.inrae.fr/frenchcropusage/Oleagineux, fourrage annuel=http://ontology.inrae.fr/frenchcropusage/Fourrages_annuels, tournesol=http://ontology.inrae.fr/frenchcropusage/Tournesols)	machine
+soleil"	soleil=http://ontology.inrae.fr/frenchcropusage/Tournesols	multi usages(->oléagineux=http://ontology.inrae.fr/frenchcropusage/Oleagineux, fourrage annuel=http://ontology.inrae.fr/frenchcropusage/Fourrages_annuels, tournesol=http://ontology.inrae.fr/frenchcropusage/Tournesols)	machine	machine
 67	http://ontology.inrae.fr/bsv/html/Corpus/Alea/html/13_HORTI_Als_cle02386b.html	"Les acariens ont en revanche été favorisés par les conditions chaudes et sèches de cette année
 Ils se sont retrouvés sur des cultures où l'on n'a pas l'habitude de les voir telles que les poinsettias et les pensées
 Au niveau des maladies, là aussi les conditions climatiques 2015 n'ont pas favorisé l'installation des maladies cryptogamiques telles que le mildiou, l'oïdium"	"21,
@@ -405,7 +405,7 @@ Gender=Fem|Number=Plur"	"poinsettias,
 pensées"	"poinsettias,
 pensées"	"poinsettias,
 pensée"	pensée=http://ontology.inrae.fr/frenchcropusage/Pensees	"floriculture=http://ontology.inrae.fr/frenchcropusage/Cultures_florales,
-plante à parfum=http://ontology.inrae.fr/frenchcropusage/Plantes_parfum"	poinsettias
+plante à parfum=http://ontology.inrae.fr/frenchcropusage/Plantes_parfum"	poinsettias	poinsettias
 69	http://ontology.inrae.fr/bsv/html/Corpus/Alea/html/13_HORTI_Als_cle02386b.html	"Des cas de botrytis ont été relevés mais sans grande gravité
 En revanche, les virus ont été présents sur cultures diverses telles que géranium, impatiens, chrysanthème, etc., et ce, malgré des pressions en thrips(principal vecteur) peu importantes
 Couple [plante/ravageur] Aleurodes Poinsettia Acariens Primevères Chenilles Acariens Pensée Maladies"	"14,
@@ -421,7 +421,7 @@ impatiens,
 chrysanthème"	"géranium,
 impatien,
 chrysanthème"	"géranium=http://ontology.inrae.fr/frenchcropusage/Geraniums,
-chrysanthème=http://ontology.inrae.fr/frenchcropusage/Chrysanthemes"	floriculture=http://ontology.inrae.fr/frenchcropusage/Cultures_florales	impatien
+chrysanthème=http://ontology.inrae.fr/frenchcropusage/Chrysanthemes"	floriculture=http://ontology.inrae.fr/frenchcropusage/Cultures_florales	impatien	impatien
 74	http://ontology.inrae.fr/bsv/html/Corpus/Alea/html/19bsv_jevi_20181108_cle871314.html	"26 pièges en région
 Espaces verts et jardins d'amateurs
 Régions nantaise, yon-naise, de Derval, d'Angers, de Mayenne, territoire d'Erdre et Gesvres, secteur des Mauges, plateau segréen, Haut-Anjou, secteur du Lude, Mayenne angevine"	"1,
@@ -431,7 +431,7 @@ Gender=Masc|Number=Plur"	"espaces,
 jardins"	"espaces,
 jardins"	"espace,
 jardin"	"jardin=http://ontology.inrae.fr/frenchcropusage/Zones_non_agricoles,
-jardin=http://ontology.inrae.fr/frenchcropusage/Jardins"	zone non agricole=http://ontology.inrae.fr/frenchcropusage/Zones_non_agricoles	espace
+jardin=http://ontology.inrae.fr/frenchcropusage/Jardins"	zone non agricole=http://ontology.inrae.fr/frenchcropusage/Zones_non_agricoles	espace	espace
 79	http://ontology.inrae.fr/bsv/html/Corpus/Alea/html/19bsv_jevi_20181108_cle871314.html	"ou inscrivez-vous en ligne pour être informé directement par mail de chaque nouvelle parution :
 Espaces verts et jardins privés en région
 Des processions de nymphose sont régulièrement signalées sur des communes de la côte vendéenne"	"1,
@@ -441,7 +441,7 @@ Gender=Masc|Number=Plur"	"espaces,
 jardins"	"espaces,
 jardins"	"espace,
 jardin"	"jardin=http://ontology.inrae.fr/frenchcropusage/Zones_non_agricoles,
-jardin=http://ontology.inrae.fr/frenchcropusage/Jardins"	zone non agricole=http://ontology.inrae.fr/frenchcropusage/Zones_non_agricoles	espace
+jardin=http://ontology.inrae.fr/frenchcropusage/Jardins"	zone non agricole=http://ontology.inrae.fr/frenchcropusage/Zones_non_agricoles	espace	espace
 80	http://ontology.inrae.fr/bsv/html/Corpus/Alea/html/19bsv_jevi_20181108_cle871314.html	"Actuellement, de nombreux nids soyeux sont présents dans les arbres, attestant ainsi de l'activité des chenilles
 Le risque peut devenir élevé, surtout lorsque les pins et cèdres colonisés par les processionnaires se situent à proximité ou dans des jardins privés, parcs, espaces publics, Il faut être vigilant avec les populations à risque (enfants, personnes âgées) et les animaux
 Dès maintenant et mis à part le cas particulier des secteurs précoces, il est encore possible de protéger les zones à risque !"	"10,
@@ -450,7 +450,7 @@ NOUN"	"Gender=Masc|Number=Plur,
 Gender=Masc|Number=Plur"	"pins,
 cèdres"	"pins,
 cèdres"	"pin,
-cèdre"	pin=http://ontology.inrae.fr/frenchcropusage/Pins	conifère=http://ontology.inrae.fr/frenchcropusage/Coniferes	cèdre
+cèdre"	pin=http://ontology.inrae.fr/frenchcropusage/Pins	conifère=http://ontology.inrae.fr/frenchcropusage/Coniferes	cèdre	cèdre
 82	http://ontology.inrae.fr/bsv/html/Corpus/Alea/html/19bsv_jevi_20181108_cle871314.html	"Actuellement, de nombreux nids soyeux sont présents dans les arbres, attestant ainsi de l'activité des chenilles
 Le risque peut devenir élevé, surtout lorsque les pins et cèdres colonisés par les processionnaires se situent à proximité ou dans des jardins privés, parcs, espaces publics, Il faut être vigilant avec les populations à risque (enfants, personnes âgées) et les animaux
 Dès maintenant et mis à part le cas particulier des secteurs précoces, il est encore possible de protéger les zones à risque !"	"27,
@@ -459,7 +459,7 @@ NOUN"	"Gender=Masc|Number=Plur,
 Gender=Masc|Number=Plur"	"parcs,
 espaces"	"parcs,
 espaces"	"parc,
-espace"	parc=http://ontology.inrae.fr/frenchcropusage/Zones_non_agricoles	usages des plantes cultivées=http://ontology.inrae.fr/frenchcropusage/Usages_plantes_cultivees	espace
+espace"	parc=http://ontology.inrae.fr/frenchcropusage/Zones_non_agricoles	usages des plantes cultivées=http://ontology.inrae.fr/frenchcropusage/Usages_plantes_cultivees	espace	espace
 87	http://ontology.inrae.fr/bsv/html/Corpus/Alea/html/19bsv_jevi_20181108_cle871314.html	"Des produits à base de Bacillus thuringiensis var. kurstaki sont autorisés pour cet usage
 Lors de la mise en place de cette culture, il convient de planter l'ail dans un sol ressuyé et hors gel, pour éviter le développement de maladies
 Choisir des caïeux sains et respecter une distance de 15 centimètres lors de la plantation"	"19,
@@ -468,7 +468,7 @@ NOUN"	"Gender=Masc|Number=Sing,
 Gender=Masc|Number=Sing"	"sol,
 gel"	"sol,
 gel"	"sol,
-gel"	gel=http://ontology.inrae.fr/frenchcropusage/Gels	plante non récoltée=http://ontology.inrae.fr/frenchcropusage/Plantes_non_recoltees	sol
+gel"	gel=http://ontology.inrae.fr/frenchcropusage/Gels	plante non récoltée=http://ontology.inrae.fr/frenchcropusage/Plantes_non_recoltees	sol	sol
 152	http://ontology.inrae.fr/bsv/html/Corpus/Alea/html/2015-05-28_BSV_Grandes_Cultures_01_cle8ba414.html	"PROTÉ
 AGINEUX page 17 Stades : Pois, Féverole : Début Floraison Tordeuses à surveiller sur pois Arrivée des cécidomyies, pucerons verts et noirs Surveiller les maladies foliaires
 POMME DE TERRE page 21 Situation : Du stade "" levée "" à "" 10% des plants se rejoignent entre rangs"" Pucerons : Présence ponctuelle Mildiou : Situation épidémiologique de la 2ème à la 5ème génération en cours Risque : Faible actuellement"	"6,
@@ -483,7 +483,7 @@ pucerons"	"pois,
 début,
 pucerons"	"pois,
 début,
-puceron"	pois=http://ontology.inrae.fr/frenchcropusage/Pois	multi usages(->légumineuse potagère=http://ontology.inrae.fr/frenchcropusage/Legumineuses_potageres, protéagineux=http://ontology.inrae.fr/frenchcropusage/Proteagineux, légumineuse fourragère=http://ontology.inrae.fr/frenchcropusage/Legumineuses_fourrageres, pois=http://ontology.inrae.fr/frenchcropusage/Pois, fourrage annuel=http://ontology.inrae.fr/frenchcropusage/Fourrages_annuels)	début
+puceron"	pois=http://ontology.inrae.fr/frenchcropusage/Pois	multi usages(->légumineuse potagère=http://ontology.inrae.fr/frenchcropusage/Legumineuses_potageres, protéagineux=http://ontology.inrae.fr/frenchcropusage/Proteagineux, légumineuse fourragère=http://ontology.inrae.fr/frenchcropusage/Legumineuses_fourrageres, pois=http://ontology.inrae.fr/frenchcropusage/Pois, fourrage annuel=http://ontology.inrae.fr/frenchcropusage/Fourrages_annuels)	début	début
 152	http://ontology.inrae.fr/bsv/html/Corpus/Alea/html/2015-05-28_BSV_Grandes_Cultures_01_cle8ba414.html	"PROTÉ
 AGINEUX page 17 Stades : Pois, Féverole : Début Floraison Tordeuses à surveiller sur pois Arrivée des cécidomyies, pucerons verts et noirs Surveiller les maladies foliaires
 POMME DE TERRE page 21 Situation : Du stade "" levée "" à "" 10% des plants se rejoignent entre rangs"" Pucerons : Présence ponctuelle Mildiou : Situation épidémiologique de la 2ème à la 5ème génération en cours Risque : Faible actuellement"	"6,
@@ -498,7 +498,7 @@ pucerons"	"pois,
 début,
 pucerons"	"pois,
 début,
-puceron"	pois=http://ontology.inrae.fr/frenchcropusage/Pois	multi usages(->légumineuse potagère=http://ontology.inrae.fr/frenchcropusage/Legumineuses_potageres, protéagineux=http://ontology.inrae.fr/frenchcropusage/Proteagineux, légumineuse fourragère=http://ontology.inrae.fr/frenchcropusage/Legumineuses_fourrageres, pois=http://ontology.inrae.fr/frenchcropusage/Pois, fourrage annuel=http://ontology.inrae.fr/frenchcropusage/Fourrages_annuels)	puceron
+puceron"	pois=http://ontology.inrae.fr/frenchcropusage/Pois	multi usages(->légumineuse potagère=http://ontology.inrae.fr/frenchcropusage/Legumineuses_potageres, protéagineux=http://ontology.inrae.fr/frenchcropusage/Proteagineux, légumineuse fourragère=http://ontology.inrae.fr/frenchcropusage/Legumineuses_fourrageres, pois=http://ontology.inrae.fr/frenchcropusage/Pois, fourrage annuel=http://ontology.inrae.fr/frenchcropusage/Fourrages_annuels)	puceron	puceron
 154	http://ontology.inrae.fr/bsv/html/Corpus/Alea/html/2015-05-28_BSV_Grandes_Cultures_01_cle8ba414.html	"A cette époque de l'année, les opérations de binage constituent un excellent moyen de terminer le désherbage
 Le binage contribue à dynamiser le développement de la culture (aération du sol) et permettra de lutter efficacement contre les repousses de pomme de terre ainsi que les betteraves adventices
 Les conditions climatiques actuelles sont particulièrement propices à ces interventions"	"24,
@@ -507,7 +507,7 @@ NOUN"	"Gender=Fem|Number=Plur,
 Gender=Fem|Number=Plur"	"repousses,
 betteraves"	"repousses,
 betteraves"	"repousse,
-betterave"	betterave=http://ontology.inrae.fr/frenchcropusage/Betteraves	multi usages(->légume racine=http://ontology.inrae.fr/frenchcropusage/Legumes_racines, choux, racines et tubercules fourragers=http://ontology.inrae.fr/frenchcropusage/Choux_racines_tubercules_fourragers, betterave=http://ontology.inrae.fr/frenchcropusage/Betteraves, culture industrielle=http://ontology.inrae.fr/frenchcropusage/Cultures_industrielles)	repousse
+betterave"	betterave=http://ontology.inrae.fr/frenchcropusage/Betteraves	multi usages(->légume racine=http://ontology.inrae.fr/frenchcropusage/Legumes_racines, choux, racines et tubercules fourragers=http://ontology.inrae.fr/frenchcropusage/Choux_racines_tubercules_fourragers, betterave=http://ontology.inrae.fr/frenchcropusage/Betteraves, culture industrielle=http://ontology.inrae.fr/frenchcropusage/Cultures_industrielles)	repousse	repousse
 168	http://ontology.inrae.fr/bsv/html/Corpus/Alea/html/2015-05-28_BSV_Grandes_Cultures_01_cle8ba414.html	"La majorité des parcelles ont atteint le stade de sensibilité aux fusarioses : stade floraison
 Le stade floraison correspond à la sortie des étamines, porte d'entrée des champignons
 L'estimation du risque fusarioses se réalise à partir de l'analyse combinée des facteurs agronomiques et du climat autour de la floraison (précipitations)"	"12,
@@ -516,7 +516,7 @@ NOUN"	"Gender=Fem|Number=Sing,
 Gender=Masc|Number=Plur"	"porte,
 champignons"	"porte,
 champignons"	"porte,
-champignon"	champignon=http://ontology.inrae.fr/frenchcropusage/Champignons	culture légumière ou culture de chapignons=http://ontology.inrae.fr/frenchcropusage/Cultures_legumieres_champignons	porte
+champignon"	champignon=http://ontology.inrae.fr/frenchcropusage/Champignons	culture légumière ou culture de chapignons=http://ontology.inrae.fr/frenchcropusage/Cultures_legumieres_champignons	porte	porte
 186	http://ontology.inrae.fr/bsv/html/Corpus/Alea/html/2015-05-28_BSV_Grandes_Cultures_01_cle8ba414.html	"Le seuil de nuisibilité dépend du débouché : Alimentation animale : 400 captures cumulées
 Alimentation humaine et production de semences : 100 captures cumulées et présence des premières gousses plates sur les pois
 Analyse de risque : Les premiers vols sont détectés sur la Champagne-Ardenne et les conditions actuelles sont favorables au vol de l'insecte(température de 18°C)"	"9,
@@ -525,7 +525,7 @@ NOUN"	"Gender=Fem|Number=Plur,
 Gender=Fem|Number=Plur"	"captures,
 gousses"	"captures,
 gousses"	"capture,
-gousse"	gousse=http://ontology.inrae.fr/frenchcropusage/Legumes_graines_gousses	culture légumière=http://ontology.inrae.fr/frenchcropusage/Cultures_legumieres	capture
+gousse"	gousse=http://ontology.inrae.fr/frenchcropusage/Legumes_graines_gousses	culture légumière=http://ontology.inrae.fr/frenchcropusage/Cultures_legumieres	capture	capture
 200	http://ontology.inrae.fr/bsv/html/Corpus/Alea/html/2017_BSV_manche_10_sem21_cle8d2aee.html	"Seuil indicatif de risque :1ère génération : aucun risque
 2ème génération : le risque mildiou débute pour les bulbilles et les oignons de semis précoces
 3ème génération : le risque mildiou débute pour les oignons de semis"	"10,
@@ -534,7 +534,7 @@ NOUN"	"Gender=Fem|Number=Plur,
 Gender=Masc|Number=Plur"	"bulbilles,
 oignons"	"bulbilles,
 oignons"	"bulbille,
-oignon"	oignon=http://ontology.inrae.fr/frenchcropusage/Oignons	légume à bulbe=http://ontology.inrae.fr/frenchcropusage/Legumes_bulbes	bulbille
+oignon"	oignon=http://ontology.inrae.fr/frenchcropusage/Oignons	légume à bulbe=http://ontology.inrae.fr/frenchcropusage/Legumes_bulbes	bulbille	bulbille
 210	http://ontology.inrae.fr/bsv/html/Corpus/Alea/html/2017_BSV_manche_10_sem21_cle8d2aee.html	"Nuisibilité : ce sont les larves qui sont responsables des galeries observées sur le feuillage du céleri et peuvent provoquer le dessèchement du feuillage des jeunes plantules
 Sur céleri-rave : sur jeunes plants, jusqu'à 3 semaines après plantation,Sur céleri-branche : pendant tout le cycle, dépréciation du feuillage
 Prophylaxie : la pose et le maintien d'un voile anti-insecte est recommandé pendant la durée du vol sur les jeunes plants"	"6,
@@ -546,7 +546,7 @@ céleri-branche"	"plant,
 céleri-branche"	"céleri branche=http://ontology.inrae.fr/frenchcropusage/Celeris_a_cotes,
 céleri-branche=http://ontology.inrae.fr/frenchcropusage/Celeris_a_cotes"	"céleri=http://ontology.inrae.fr/frenchcropusage/Celeris,
 légume tige=http://ontology.inrae.fr/frenchcropusage/Legumes_tiges,
-légume à feuilles=http://ontology.inrae.fr/frenchcropusage/Legumes_feuilles"	plant
+légume à feuilles=http://ontology.inrae.fr/frenchcropusage/Legumes_feuilles"	plant	plant
 213	http://ontology.inrae.fr/bsv/html/Corpus/Alea/html/2017_BSV_manche_10_sem21_cle8d2aee.html	"Céleri rave : 10% de plantules avec pucerons jusqu'au stade 3 feuilles vraies ou 3 semaines après la plantation
 Céleri branche et persil : 10% de plants avec colonie d'aptères pendant tout le cycle
 Evolution du risque : Surveillez vos jeunes plantules et l'activité de la faune auxiliaire dans vos parcelles"	"2,
@@ -555,7 +555,7 @@ NOUN"	"Gender=Fem|Number=Sing,
 Gender=Masc|Number=Sing"	"branche,
 persil"	"branche,
 persil"	"branche,
-persil"	persil=http://ontology.inrae.fr/frenchcropusage/Persils	plante aromatique=http://ontology.inrae.fr/frenchcropusage/Plantes_aromatiques	branche
+persil"	persil=http://ontology.inrae.fr/frenchcropusage/Persils	plante aromatique=http://ontology.inrae.fr/frenchcropusage/Plantes_aromatiques	branche	branche
 215	http://ontology.inrae.fr/bsv/html/Corpus/Alea/html/2017_BSV_manche_10_sem21_cle8d2aee.html	"Les conditions pluvieuses et humides de la semaine dernière ont été très favorables au développement du mildiou
 Présence sur le feuillage notée sur de nombreux plants et sur fruits verts sur un plant
 Prophylaxie :- aérez au maximum pour baisser l'humidité ambiante,- évitez les irrigations par aspersion ou brumisation,- éliminez les débris végétaux de l'abri"	"9,
@@ -564,4 +564,4 @@ NOUN"	"Gender=Masc|Number=Plur,
 Gender=Masc|Number=Plur"	"plants,
 fruits"	"plants,
 fruits"	"plant,
-fruit"	fruit=http://ontology.inrae.fr/frenchcropusage/Cultures_fruitieres	usages des plantes cultivées=http://ontology.inrae.fr/frenchcropusage/Usages_plantes_cultivees	plant
+fruit"	fruit=http://ontology.inrae.fr/frenchcropusage/Cultures_fruitieres	usages des plantes cultivées=http://ontology.inrae.fr/frenchcropusage/Usages_plantes_cultivees	plant	plant
