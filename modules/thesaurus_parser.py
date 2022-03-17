@@ -146,11 +146,16 @@ def get_ascendants_of_descendants(children, parents):
 
     """
     parents_of_children = {}
+    
     for label_x, concepts_x in children.items():
+        
         # find all parents of children
-        ascendants_of_descendants = [concepts_y for x in concepts_x for label_y, concepts_y in parents.items() if x == label_y if x != label_x if x != "multi usages"]
+        ascendants_of_descendants = [concepts_y for x in concepts_x 
+                                     for label_y, concepts_y in parents.items() 
+                                     if x == label_y if x != label_x if x != "multi usages"]
         # flatten the list and remove duplicates
-        ascendants_of_descendants = list(set(flatten(ascendants_of_descendants)))       
+        ascendants_of_descendants = list(set(flatten(ascendants_of_descendants)))
+        
         # save to a dict
         parents_of_children[label_x] = ascendants_of_descendants
     
