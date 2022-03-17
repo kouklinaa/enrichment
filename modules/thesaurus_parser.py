@@ -150,9 +150,15 @@ def get_ascendants_of_descendants(children, parents):
     for label_x, concepts_x in children.items():
         
         # find all parents of children
-        ascendants_of_descendants = [concepts_y for x in concepts_x 
+        ascendants_of_descendants = [concepts_y 
+                                     for x in concepts_x 
                                      for label_y, concepts_y in parents.items() 
-                                     if x == label_y if x != label_x if x != "multi usages"]
+                                     if x == label_y 
+                                     if x != label_x 
+                                     if x != "multi usages"] # map child concept of children dictionary (x) and a label of a concept from parent dictionary (label_y)
+                                                             # if there are the same, then get parents for this child concept
+                                                             # do not include parents that are "multi usage" as it doesn't give anything new
+                                                             # do not include parents that are equal to the label itself
         # flatten the list and remove duplicates
         ascendants_of_descendants = list(set(flatten(ascendants_of_descendants)))
         
