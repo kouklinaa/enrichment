@@ -87,7 +87,7 @@ def get_noun_group(sent, head_noun, head_noun_id, filters):
                                     det_upos=word.upos
                                     det_parent=word.parent.text.lower()
                                     det_feats=word.feats
-                                    if det_id > head_noun_id and det_id < nmod_id:
+                                    if det_id > head_noun_id and det_id < nmod_id: # consider determinants only after the noun head 
                                         det = (str(det_id),det_form,det_lemma,det_upos,det_parent,str(det_feats))
                                         noun_group.setdefault(head_noun_id, []).append(det)
                                 
@@ -165,9 +165,10 @@ def get_noun_group(sent, head_noun, head_noun_id, filters):
                                 
     # see if  the tuple is not empty                
     if len(noun_group)!= 0:
-        noun_group.setdefault(head_noun_id, []).append(head_noun) # add all dependents to a list of lists and connect them all to the head
-        noun_group = flatten(list(noun_group.values())) # convert list of lists to a simple list
+        noun_group.setdefault(head_noun_id, []).append(head_noun)                   # add all dependents to a list of lists and connect them all to the head
+        noun_group = flatten(list(noun_group.values()))                             # convert list of lists to a simple list
         noun_group = sorted(noun_group, key=lambda tup: int(tup[0]), reverse=False) # sort out the elements
+        
         
         # delete groups with prepositions other than"de" and "à"
         for group in noun_group:
@@ -413,9 +414,9 @@ def conjunctions_to_df(conjunctions,fcu_labels, fcu_lemmatised_labels, fcu_paren
             for head, dep in conj.items():
                 
                 # create a list of lists (elements of a conjunction), example : [['5', 'feuilles', 'feuille', 'NOUN', 'feuilles', 'Gender=Fem|Number=Plur']....]
-                result = [list(t) for t in flatten(dep)]  # get all dependents
-                result.insert(0,list(head))  # insert head as the first element           
-                transposed = list(map(list,zip(*result))) # transpose this result, example : [['5', '7'], ['feuilles', 'risque'], ['feuille', 'risque'], ['NOUN', 'NOUN']...]
+                result = [list(t) for t in flatten(dep)]    # get all dependents
+                result.insert(0,list(head))                 # insert head as the first element           
+                transposed = list(map(list,zip(*result)))   # transpose this result, example : [['5', '7'], ['feuilles', 'risque'], ['feuille', 'risque'], ['NOUN', 'NOUN']...]
                 
                 # get lists of  transposed elements
                 idx = transposed[0]
@@ -536,19 +537,19 @@ def correct_adj(idx_adj, idx_noun, parts_of_proposal,upos_proposal,parent_propos
     """
     
     # get references for further modifications
-    adj_endings=load_csv("ressources/adj_endings.csv", sep=";", header=0) # load endings of french adjectives
-    adj_dict = adj_endings.set_index('Plural')['Singular'].to_dict() # create a dictionary from df
+    adj_endings=load_csv("ressources/adj_endings.csv", sep=";", header=0)   # load endings of french adjectives
+    adj_dict = adj_endings.set_index('Plural')['Singular'].to_dict()        # create a dictionary from df
     
     
     # get information about adjectif
-    adj = parts_of_proposal[idx_adj] # lemma
-    parent_adj = parent_proposal[idx_adj] # parent
-    feat_adj = feat_proposal[idx_adj] # features
+    adj = parts_of_proposal[idx_adj]        # lemma
+    parent_adj = parent_proposal[idx_adj]   # parent
+    feat_adj = feat_proposal[idx_adj]       # features
     
     # get information about noun
-    noun = parts_of_proposal[idx_noun] # lemma
+    noun = parts_of_proposal[idx_noun]      # lemma
     parent_noun = parent_proposal[idx_noun] # parent
-    feat_noun = feat_proposal[idx_noun] # features
+    feat_noun = feat_proposal[idx_noun]     # features
     
     
     #################################################################################
@@ -647,15 +648,16 @@ def correct_proposals(df):
         # see if the proposal is inside the list of lemmas (of the corresponding cell)
         if proposal in temp_lemma:
             
+            
             # get the index of the element in the list            
-            idx_proposal = temp_lemma.index(proposal) # get index of the proposal (which elemnt of the list)
-            upos_proposal = temp_upos[idx_proposal].split() # get POS features of the proposal by its index
+            idx_proposal = temp_lemma.index(proposal)            # get index of the proposal (which elemnt of the list)
+            upos_proposal = temp_upos[idx_proposal].split()      # get POS features of the proposal by its index
             parent_proposal = temp_parents[idx_proposal].split() # get parent forms of the proposal by its index
-            feat_proposal = temp_feats[idx_proposal].split() # get morph. features of the proposal by its index
+            feat_proposal = temp_feats[idx_proposal].split()     # get morph. features of the proposal by its index
 
-            parts_of_proposal = proposal.split() # split proposal by space to a list of strings
+            parts_of_proposal = proposal.split()        # split proposal by space to a list of strings
 
-            for idx, x in enumerate(upos_proposal): # navigate through every token of the proposal
+            for idx, x in enumerate(upos_proposal):     # navigate through every token of the proposal
                 
                 #################################                                                            
                 if x == "ADJ":

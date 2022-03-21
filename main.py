@@ -78,22 +78,9 @@ print("######################\n")
 
 
 conjunctions, bsv_lemmatized = find_conjunctions(bsv, filters, wine_bioagressors, ppdo_labels, ncbi_labels) # extract conjunctions
-
-#%%
 df = conjunctions_to_df(conjunctions, fcu_labels, fcu_lemmatised_labels, fcu_parents, fcu_parents_of_children) # get a dataframe of extracted conjunctions
-#%%
 df = correct_proposals(df) # modify token forms if they are not grammatically correct
-#print(df[:10])
 
-#%%
-for k, v in fcu_parents.items():
-    if k == "lentille ":
-        print(k)
-#%%
-#print(nlp("Céleri branche et persil : 10% de plants avec colonie d'aptères pendant tout le cycle"))
-# nombreux plant
-# Sclerotinia sclerotinium s'attaque à plus de 400 espèces de plantes hôtes : colza , betteraves, pommes de terre, endives, haricots, pois, carottes, choux, salades, navets, scorsonères, céleri, phacélie, moutarde
-#Arbres fruitiers et vignes : Malus domestica (pommier), Pyrus communis (poirier), Prunus spp. (prunier, cerisier, abricotier, pêcher ), Citrus spp., Diospyros spp. (kaki), Ficus carica (figuier), Vitis vinifera (vigne) Légumes : Phaseolus vulgaris (haricot), Pisum sativum (pois), Asparagus officinalis (asperge), Cucumis sativus (concombre), Capsicum annuum (poivron) Grandes cultures : Zea mais (maïs), Glycine max (soja), Helianthus annuus (tournesol) Plantes et arbustes ornementales : Paulownia , Rosa spp., Hibiscus spp., Nerium oleander (laurier rose), Cupressus sp. (Cyprès), Magnolia sp
 #%%
 print("\n######################")
 print("Save results")
