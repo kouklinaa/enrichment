@@ -90,6 +90,9 @@ def get_all_labels(individual):
     alts = get_altLabels(individual)
     labels.extend(alts)   
      
+    # lowercase 
+    labels = [label.lower().replace("\xa0", " ").strip() for label in labels]
+    
     return labels
 
 def get_descendants(individual):
@@ -107,7 +110,12 @@ def get_descendants(individual):
         skos:narrower values for the individual.
 
     """
+    # find children
     children = flatten([c.prefLabel for c in individual.narrower])
+    
+    # lowercase
+    children = [label.lower().replace("\xa0", " ").strip() for label in children]
+    
     return children
 
 def get_ascendants(individual):
@@ -125,7 +133,13 @@ def get_ascendants(individual):
         skos:broader values for the individual.
 
     """
+    
+    # find parents
     parents = flatten([c.prefLabel for c in individual.broader])
+    
+    # lowercase
+    parents = [label.lower().replace("\xa0", " ").strip() for label in parents]
+    
     return parents
 
 def get_ascendants_of_descendants(children, parents):
@@ -162,6 +176,9 @@ def get_ascendants_of_descendants(children, parents):
         # flatten the list and remove duplicates
         ascendants_of_descendants = list(set(flatten(ascendants_of_descendants)))
         
+        # lowercase
+        ascendants_of_descendants = [label.lower() for label in ascendants_of_descendants]
+        
         # save to a dict
         parents_of_children[label_x] = ascendants_of_descendants
     
@@ -178,16 +195,21 @@ def parse_thesaurus(path):
 
     Returns
     -------
-    labels : list of str
-        all the labels for the individual.
-    lemmatised_labels : list of str
-        lemmatised labels for the individual.
-    parents : list of str
-        skos:broader values for the individual.
-    children : list of str
-        skos:narrower values for the individual.
-    parents_of_children : list of str
-        skos:broader values of skos:narrower values if initial skos:broader value = multi usage.
+    labels : dict
+        key = label
+        value = iri.
+    lemmatised_labels : dict
+        key = label+"="+iri
+        value = lemmatised label
+    parents : dict
+        key = label
+        value = skos:broader concepts.
+    children : dict
+        key = label
+        value = skos:narrower concepts.
+    parents_of_children : dict
+        key = label
+        value = skos:broader concepts of skos:narrower concepts .
 
     """    
     

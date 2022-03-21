@@ -52,3 +52,22 @@ def load_csv(fic, sep, header):
     df = pd.read_csv(fic, sep=sep, header=header)
     return df
 
+
+def index_exists(ls, i):
+    """
+    
+
+    Parameters
+    ----------
+    ls : list
+        list of elements.
+    i : str
+        index to verify.
+
+    Returns
+    -------
+    True
+        if index exists in the list.
+
+    """
+    return (0 <= i < len(ls)) or (-len(ls) <= i < 0)
